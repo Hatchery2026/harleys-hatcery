@@ -1,20 +1,78 @@
-body{margin:0;background:#fff8ed;color:#4f4b45;font-family:Georgia,serif;text-align:center}
-header{background:white;padding:25px;border-bottom:3px solid #dce8d2}
-.brand{font-size:35px;color:#806b95;font-weight:bold}
-small{color:#8aa06f;font-size:18px}
-nav{margin-top:20px;color:#806b95;font-weight:bold}
-.hero{display:flex;gap:30px;padding:50px;background:#faf1ff;align-items:center;justify-content:center}
-.hero-text{max-width:500px}
-h1,h2,h3{color:#806b95}
-h1{font-size:55px}
-h1 span{color:#8aa06f}
-.dates{display:flex;gap:15px;justify-content:center;margin:25px}
-.dates div{background:white;padding:20px;border-radius:20px}
-.button{background:#9d83b8;color:white;padding:15px 30px;border-radius:25px;display:inline-block}
-.photo-placeholder{background:#eadfcf;border-radius:30px;padding:100px 80px;font-size:40px}
-.features{display:flex;justify-content:center;gap:20px;padding:30px}
-.features div,.card{background:white;border-radius:25px;padding:25px;box-shadow:0 5px 20px #ddd}
-.card{margin:30px auto;max-width:900px}
-.breeds{display:flex;justify-content:center;gap:15px;flex-wrap:wrap}
-.breeds div{background:#fff;border-radius:20px;padding:20px;width:150px}
-footer{background:#8aa06f;color:white;padding:40px}
+body{
+margin:0;
+background:#fff8ed;
+font-family:Georgia,serif;
+color:#555;
+text-align:center;
+}
+header{
+background:white;
+padding:30px;
+border-bottom:4px solid #dce8d2;
+}
+.logo{
+font-size:38px;
+font-weight:bold;
+color:#806b95;
+}
+.tagline{
+color:#8aa06f;
+font-size:20px;
+}
+nav a{
+margin:10px;
+color:#806b95;
+text-decoration:none;
+font-weight:bold;
+}
+.hero{
+padding:70px 20px;
+background:#f8efff;
+}
+h1,h2,h3{
+color:#806b95;
+}
+.dates{
+display:flex;
+justify-content:center;
+gap:20px;
+margin:30px;
+}
+.dates div,.cards div,.breed,.content{
+background:white;
+border-radius:25px;
+padding:25px;
+box-shadow:0 5px 15px #ddd;
+}
+.button,button{
+background:#b9a7d8;
+color:white;
+padding:15px 30px;
+border-radius:30px;
+text-decoration:none;
+border:0;
+}
+.cards,.breed-grid{
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+gap:20px;
+padding:30px;
+}
+.cards div,.breed{
+width:220px;
+}
+.content{
+max-width:800px;
+margin:30px auto;
+}
+footer{
+background:#8aa06f;
+color:white;
+padding:35px;
+}
+input,textarea{
+padding:12px;
+margin:8px;
+width:80%;
+}
