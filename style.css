@@ -1,8 +1,74 @@
-body{font-family:Georgia,serif;background:#fff8ed;color:#555;text-align:center;margin:0}
-header{background:white;padding:25px}
-nav a{margin:10px;color:#806b95;text-decoration:none}
-.hero{padding:100px 20px;background:#f3e8ff}
-.button,button{background:#806b95;color:white;padding:12px 25px;border-radius:20px;text-decoration:none;border:0}
-.cards{display:flex;justify-content:center;gap:20px;flex-wrap:wrap;padding:40px}
-.card,.cards div{background:white;padding:25px;border-radius:20px;margin:20px}
-input,textarea{width:250px;padding:8px;margin:8px}
+body{
+margin:0;
+font-family:Georgia,serif;
+background:#fffaf3;
+color:#4d4055;
+}
+.top{
+background:#80609a;
+color:white;
+padding:10px;
+text-align:center;
+}
+header{
+background:white;
+display:flex;
+justify-content:space-around;
+align-items:center;
+padding:20px;
+}
+.logo{
+text-align:center;
+font-size:28px;
+color:#80609a;
+}
+.logo span{font-size:22px}
+nav a{
+margin:10px;
+text-decoration:none;
+color:#4d4055;
+}
+.button{
+background:#80609a;
+color:white!important;
+padding:12px 22px;
+border-radius:20px;
+}
+.hero{
+display:flex;
+justify-content:space-around;
+align-items:center;
+padding:70px;
+background:linear-gradient(90deg,#f7eadb,#fff);
+}
+.hero h1{
+font-size:55px;
+color:#80609a;
+}
+.chicks{
+font-size:100px;
+}
+.features,.breeds{
+display:flex;
+justify-content:center;
+gap:20px;
+flex-wrap:wrap;
+padding:40px;
+}
+.features div,.breeds div{
+background:white;
+padding:25px;
+border-radius:15px;
+text-align:center;
+box-shadow:0 5px 15px #ddd;
+}
+.breeds div{
+width:150px;
+}
+h2{text-align:center;color:#80609a}
+footer{
+background:#80609a;
+color:white;
+padding:25px;
+text-align:center;
+}
