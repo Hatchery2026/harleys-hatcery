@@ -1,11 +1,11 @@
-Harley's Hatchery Version 23.3 - Checkout Experience, Order Processing & Customer Purchase Flow Edition
+Harley's Hatchery Version 23.4 - Customer Dashboard Integration, Order Management Center & Complete User Experience Hub Edition
 
 Production Website Build:
-Turning the marketplace into a complete buying experience.
+Connecting purchases, accounts, and customer experiences into one personal hub.
 
 Focus:
-- Shopping cart
-- Checkout pages
-- Order confirmation
-- Customer purchase tracking
-- E-commerce completion flow
+- Connect purchases to customer accounts
+- Personal order dashboard
+- Flock ownership records
+- Customer activity center
+- Unified user experience
