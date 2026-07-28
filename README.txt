@@ -1,11 +1,10 @@
-Harley's Hatchery Version 7.5 - Complete Hatchery Operations Upgrade
+Harley's Hatchery Version 7.6 - Advanced Brand & Customer Platform
 
 Focus:
-- Advanced customer experience
-- Availability structure
-- Reservation management flow
-- Customer communication preparation
-- Business operations organization
+- Customer communication improvements
+- Enhanced breed information structure
+- Reservation management preparation
+- Stronger brand experience
 
 Assets:
 images/logo.png
@@ -14,8 +13,14 @@ images/story.jpg
 images/chicks.jpg
 images/flock.jpg
 
-Preparation:
-- Connect live reservation forms
-- Add real hatch dates
-- Add customer notifications
-- Connect website hosting
+Breed assets:
+breeds/silkie.jpg
+breeds/rhode-island-red.jpg
+breeds/australorp.jpg
+breeds/buff-orpington.jpg
+breeds/leghorn.jpg
+
+Next:
+- Connect live customer tools
+- Add real inventory
+- Final launch polish
