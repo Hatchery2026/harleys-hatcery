@@ -1,11 +1,10 @@
-Harley's Hatchery Version 9.6 - Advanced Operations, Automation & Scaling Edition
+Harley's Hatchery Version 9.7 - Enterprise Hatchery Management & Advanced Platform Edition
 
 Focus:
-- Advanced business workflows
-- Operations scaling
-- Owner/team management structure
-- Deeper analytics preparation
-- Growth systems
+- Full business command center
+- Advanced customer lifecycle tools
+- Enterprise reporting preparation
+- Complete automation ecosystem
 
 Assets:
 images/logo.png
@@ -13,7 +12,7 @@ images/hero.jpg
 images/story.jpg
 
 Preparation:
-- Add team access tools
-- Connect operations software
-- Add advanced analytics
-- Connect automation systems
+- Connect business systems
+- Add live operational data
+- Add user permissions
+- Connect analytics platforms
