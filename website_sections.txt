@@ -1,0 +1,28 @@
+Harley's Hatchery Website Sections
+
+HOME
+- Hero banner
+- Mission statement
+- Featured breeds
+- Why choose us
+- Reserve chicks button
+
+CHICK STORE
+- Product cards
+- Breed images
+- Descriptions
+- Pricing
+- Availability
+- Reserve button
+
+BREED CENTER
+- Breed profiles
+- Personality
+- Care information
+- Egg production
+
+CUSTOMER FLOW
+- Browse chicks
+- Select breed
+- Submit reservation
+- Receive confirmation
