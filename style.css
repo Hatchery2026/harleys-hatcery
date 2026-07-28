@@ -16,7 +16,7 @@ nav{color:#806b95;font-weight:bold;}
 background:#f3e8ff;
 padding:90px 40px;
 }
-h1,h2{color:#806b95;}
+h1{color:#806b95;}
 .cards{
 display:flex;
 justify-content:center;
@@ -31,7 +31,6 @@ border-radius:30px;
 box-shadow:0 8px 20px #ddd;
 max-width:260px;
 }
-.story{padding:50px;}
 footer{
 background:#8aa06f;
 color:white;
