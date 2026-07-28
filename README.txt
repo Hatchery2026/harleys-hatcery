@@ -1,15 +1,15 @@
-Harley's Hatchery Version 11.4 - Advanced Care Center & Customer Education Experience Edition
+Harley's Hatchery Version 11.5 - Community, Reviews & Customer Loyalty Experience Edition
 
 Focus:
-- Chick care library
-- Breed education pages
-- New owner guides
-- Feeding and setup resources
-- Customer support experience
+- Customer photo gallery
+- Flock stories
+- Reviews and testimonials
+- Loyalty rewards
+- Community engagement
 
 Preparation:
-- Add real care articles
-- Add videos
-- Add downloadable guides
-- Connect customer accounts
-- Add support tools
+- Add real customer photos
+- Add testimonials
+- Connect loyalty system
+- Add social media links
+- Enable customer submissions
