@@ -1,7 +1,6 @@
-Harley's Hatchery Version 5.1 - Final Real Website Build
+Harley's Hatchery Version 5.2 - Actual Website Build
 
-Purpose:
-Move from template structure into the real branded website.
+This version focuses on real brand integration.
 
 Add:
 images/logo.png
@@ -9,14 +8,15 @@ images/hero.jpg
 images/chicks.jpg
 images/flock.jpg
 
-Breed photos:
-breed_images/silkie.jpg
-breed_images/rhode-island-red.jpg
-breed_images/australorp.jpg
-breed_images/buff-orpington.jpg
-breed_images/leghorn.jpg
+Breed images:
+breeds/silkie.jpg
+breeds/rhode-island-red.jpg
+breeds/australorp.jpg
+breeds/buff-orpington.jpg
+breeds/leghorn.jpg
 
-Final steps:
-- Insert real photos
-- Connect forms
-- Add domain/hosting
+Next steps:
+- Insert final photos
+- Connect pages
+- Add forms
+- Prepare launch
