@@ -1,0 +1,15 @@
+Harley's Hatchery Launch Roadmap
+
+Completed:
+✓ Website Foundation
+✓ Brand Integration
+✓ Business Features
+
+Next Launch Steps:
+1. Add final logo and brand assets
+2. Add real breed photos
+3. Add inventory and pricing
+4. Connect ordering/payment tools
+5. Connect domain and hosting
+6. Test website
+7. Launch Harley's Hatchery
