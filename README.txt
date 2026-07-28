@@ -1,16 +1,12 @@
-Harley's Hatchery Version 7.0 - Official Launch Edition
+Harley's Hatchery Version 7.1 - Live Business Integration
 
-Final launch foundation.
+Focus:
+- Real business website structure
+- Breed showcase preparation
+- Reservation experience
+- Customer information flow
 
-Includes:
-- Homepage
-- Brand presentation
-- Customer journey
-- Trust sections
-- Photo placement
-- Launch checklist
-
-Add final assets:
+Assets:
 images/logo.png
 images/hero.jpg
 images/story.jpg
@@ -24,8 +20,8 @@ breeds/australorp.jpg
 breeds/buff-orpington.jpg
 breeds/leghorn.jpg
 
-Final launch:
+Launch preparation:
+- Add live availability
 - Connect forms
+- Add payment/reservation tools if desired
 - Connect domain
-- Add final availability
-- Publish website
