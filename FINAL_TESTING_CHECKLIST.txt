@@ -1,0 +1,23 @@
+Final Website Testing Checklist
+
+Website:
+□ Home page works
+□ Navigation works
+□ Store pages work
+□ Breed pages work
+□ Education pages work
+□ Contact page works
+
+Business:
+□ Inventory displays correctly
+□ Pricing displays correctly
+□ Order process works
+
+Mobile:
+□ Phone layout tested
+□ Tablet layout tested
+
+Launch:
+□ Domain connected
+□ Hosting active
+□ Website published
