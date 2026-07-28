@@ -1,17 +1,10 @@
-Go Live Checklist
+Final Launch Checklist
 
-DONE:
-✓ Website design direction
-✓ Page structure
-✓ Customer flow
-
-FINAL:
 □ Add logo
-□ Add photos
-□ Add breed cards
+□ Add photography
+□ Add products
 □ Add prices
 □ Add inventory
-□ Connect order form
-□ Connect email notifications
+□ Test reservations
 □ Connect domain
 □ Publish website

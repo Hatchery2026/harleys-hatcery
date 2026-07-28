@@ -1,0 +1,12 @@
+Homepage Layout
+
+Hero:
+Quality Chicks. Raised With Care.
+
+Sections:
+1. Welcome to Harley's Hatchery
+2. Featured Chick Breeds
+3. Why Choose Us
+4. Chick Care Promise
+5. Reserve Your Chicks
+6. Contact Information
