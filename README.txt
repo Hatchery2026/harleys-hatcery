@@ -1,23 +1,20 @@
-Harley's Hatchery Version 8.1 - Live Website Deployment & Growth Edition
+Harley's Hatchery Version 8.2 - Marketing, Community & Customer Engagement Edition
 
 Focus:
-- Live website preparation
-- Business growth tools
-- SEO/content structure
-- Customer conversion improvements
-- Launch readiness
+- Social media integration preparation
+- Newsletter structure
+- Customer loyalty features
+- Brand storytelling
+- Community growth
 
 Assets:
 images/logo.png
 images/hero.jpg
 images/story.jpg
-images/chicks.jpg
-images/flock.jpg
+images/customers.jpg
 
 Preparation:
-- Connect domain
-- Add hosting
-- Connect forms
-- Add real inventory
-- Add analytics
-- Publish website
+- Connect social links
+- Connect email platform
+- Add real customer stories
+- Add community updates
