@@ -1,19 +1,22 @@
-Harley's Hatchery Version 5.8 - Final Launch Polish
+Harley's Hatchery Version 5.9 - Pre Launch Final Review
+
+Final review package.
 
 Focus:
-- Final customer flow polish
-- Final homepage presentation
-- Launch-ready structure
+- Customer journey check
+- Brand consistency
+- Final homepage polish
+- Launch preparation
 
-Add final assets:
+Replace:
 images/logo.png
 images/hero.jpg
 images/story.jpg
 images/chicks.jpg
 images/flock.jpg
 
-Final steps:
-- Replace placeholders
+Final launch checklist:
+- Add real photos
 - Connect forms
-- Add hosting/domain
-- Final mobile review
+- Connect domain
+- Test mobile layout
