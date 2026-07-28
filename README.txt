@@ -1,19 +1,24 @@
-Harley's Hatchery Version 7.2 - Advanced Customer Experience
+Harley's Hatchery Version 7.3 - Professional Business Upgrade
 
 Focus:
-- Improved customer support
-- FAQ section
-- Availability communication
-- Reservation improvements
-- Stronger customer journey
+- Professional breed pages
+- Improved shop experience
+- Customer communication
+- Business-ready structure
 
 Assets:
 images/logo.png
 images/hero.jpg
 images/story.jpg
-images/chicks.jpg
+
+Breed images:
+breeds/silkie.jpg
+breeds/rhode-island-red.jpg
+breeds/australorp.jpg
+breeds/buff-orpington.jpg
+breeds/leghorn.jpg
 
 Next:
-- Connect live forms
-- Add real inventory
-- Launch improvements
+- Add live inventory
+- Connect customer forms
+- Add final branding assets
