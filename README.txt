@@ -1,10 +1,11 @@
-Harley's Hatchery Version 27.1 - Advanced Flock Management System & Digital Hatchery Records Edition
+Harley's Hatchery Version 27.2 - Advanced Breed Database, Chick Encyclopedia & Knowledge Center Edition
 
 Created:
-- Individual flock profile foundation
-- Digital bird records structure
-- Care tracking concepts
-- Flock analytics foundation
-- Care calendar planning
+- Breed encyclopedia foundation
+- Breed profile structure
+- Egg information area
+- Care guide framework
+- Breed discovery tools
+- Learning center foundation
 
-This version begins the digital flock management ecosystem.
+This expands Harley's Hatchery into an educational flock resource platform.
