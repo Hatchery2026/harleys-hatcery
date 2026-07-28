@@ -1,0 +1,9 @@
+Final Deployment Steps
+
+1. Add final content
+2. Add photos/logo
+3. Load products
+4. Connect order system
+5. Test website
+6. Connect domain
+7. Publish live

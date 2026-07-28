@@ -1,0 +1,32 @@
+WEBSITE PAGES
+
+Home:
+- Hero banner
+- Brand message
+- Featured breeds
+- Reserve chicks button
+
+Store:
+- Product cards
+- Breed listings
+- Availability
+- Pricing
+- Reserve buttons
+
+Breed Center:
+- Breed descriptions
+- Personality
+- Care information
+
+Care:
+- Brooding
+- Feeding
+- Housing
+- General chick care
+
+Order:
+- Customer name
+- Email
+- Breed request
+- Quantity
+- Notes

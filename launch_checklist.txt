@@ -1,17 +1,12 @@
-Launch Checklist
+FINAL GO LIVE CHECKLIST
 
-Completed:
-✓ Site structure
-✓ Store structure
-✓ Breed structure
-✓ Customer flow
-
-Final:
-□ Add logo
-□ Add photography
-□ Add products
-□ Add pricing
-□ Add inventory
-□ Connect payments/orders
-□ Connect domain
-□ Publish
+[ ] Logo uploaded
+[ ] Photos uploaded
+[ ] Breed information completed
+[ ] Prices entered
+[ ] Inventory entered
+[ ] Order form connected
+[ ] Payment system connected
+[ ] Domain connected
+[ ] Mobile tested
+[ ] Website published

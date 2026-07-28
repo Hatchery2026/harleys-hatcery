@@ -1,0 +1,33 @@
+Harley's Hatchery Website Content Sheet
+
+BUSINESS INFORMATION
+Business Name:
+Email:
+Phone:
+Location:
+Hours:
+
+BREEDS
+
+Breed 1:
+Description:
+Price:
+Availability:
+Hatch Date:
+
+Breed 2:
+Description:
+Price:
+Availability:
+Hatch Date:
+
+Breed 3:
+Description:
+Price:
+Availability:
+Hatch Date:
+
+POLICIES
+Pickup:
+Shipping:
+Refund/Guarantee:
