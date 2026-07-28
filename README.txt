@@ -1,15 +1,15 @@
-Harley's Hatchery Version 12.3 - Premium Ecommerce Experience & Customer Checkout Edition
+Harley's Hatchery Version 12.4 - Customer Portal, Order Tracking & Lifetime Flock Experience Edition
 
 Focus:
-- Product-style chick pages
-- Reservation checkout experience
-- Customer order confirmation
-- Payment integration preparation
-- Improved shopping experience
+- Customer accounts
+- Order history
+- Reservation tracking
+- Hatch updates
+- Long-term customer relationship tools
 
 Preparation:
-- Add real pricing
-- Connect payment processor
-- Add customer accounts
-- Connect inventory system
-- Add order notifications
+- Connect customer database
+- Add account login
+- Connect order system
+- Add notifications
+- Connect loyalty features
