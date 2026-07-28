@@ -1,10 +1,4 @@
-Version 3.6 Home Page Build
+Harley's Hatchery Version 3.7 - Shop Chicks
 
-Add your images:
-images/logo.png
-images/hero.jpg
-images/chicks-1.jpg
-images/chicks-2.jpg
-images/flock.jpg
-
-This version focuses on the approved Harley's Hatchery homepage template.
+Professional breed catalog page.
+Replace images in images/breeds/ with your chosen breed photos.
