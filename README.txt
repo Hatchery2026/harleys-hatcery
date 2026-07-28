@@ -1,15 +1,11 @@
-Harley's Hatchery Version 8.0 - Complete Platform Edition
+Harley's Hatchery Version 8.1 - Live Website Deployment & Growth Edition
 
-Milestone:
-Complete platform foundation.
-
-Includes:
-- Brand experience
-- Customer journey
-- Breed showcase structure
-- Reservation workflow
-- Customer communication preparation
-- Launch readiness checklist
+Focus:
+- Live website preparation
+- Business growth tools
+- SEO/content structure
+- Customer conversion improvements
+- Launch readiness
 
 Assets:
 images/logo.png
@@ -18,16 +14,10 @@ images/story.jpg
 images/chicks.jpg
 images/flock.jpg
 
-Breed images:
-breeds/silkie.jpg
-breeds/rhode-island-red.jpg
-breeds/australorp.jpg
-breeds/buff-orpington.jpg
-breeds/leghorn.jpg
-
-Final steps:
-- Add real content
-- Connect forms
-- Add live availability
+Preparation:
 - Connect domain
-- Publish
+- Add hosting
+- Connect forms
+- Add real inventory
+- Add analytics
+- Publish website
