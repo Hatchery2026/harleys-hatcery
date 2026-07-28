@@ -12,9 +12,7 @@ padding:35px;
 border-bottom:4px solid #dce8d2;
 }
 
-.logo{
-width:240px;
-}
+.logo{width:240px;}
 
 nav{
 color:#806b95;
@@ -30,7 +28,15 @@ h1,h2{
 color:#806b95;
 }
 
-.cards{
+button{
+background:#8aa06f;
+color:white;
+border:0;
+padding:14px 30px;
+border-radius:30px;
+}
+
+.products{
 display:flex;
 justify-content:center;
 gap:20px;
@@ -38,7 +44,7 @@ flex-wrap:wrap;
 padding:50px;
 }
 
-.cards div{
+.products div{
 background:white;
 padding:35px;
 border-radius:30px;
@@ -46,7 +52,7 @@ box-shadow:0 8px 20px #ddd;
 max-width:260px;
 }
 
-.testimonial,.trust{
+.cta{
 padding:50px;
 }
 
