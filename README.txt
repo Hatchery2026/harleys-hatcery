@@ -1,11 +1,11 @@
-Harley's Hatchery Version 22.3 - Product Marketplace Build, Chick Catalog System & Online Store Experience Edition
+Harley's Hatchery Version 22.4 - Customer Accounts, Flock Management Dashboard & Personalized User Portal Edition
 
 New Millennium Era:
-Building the customer shopping and product discovery experience.
+Building the personal customer home base for Harley's Hatchery.
 
 Focus:
-- Product pages
-- Chick catalog
-- Store layout
-- Ordering experience
-- Customer shopping journey
+- Customer login system
+- Personal dashboards
+- Flock tracking
+- Order history
+- Customer profile experience
