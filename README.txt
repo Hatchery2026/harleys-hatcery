@@ -1,10 +1,15 @@
-Harley's Hatchery Version 7.9 - Complete Business Automation & Launch Polish
+Harley's Hatchery Version 8.0 - Complete Platform Edition
 
-Focus:
-- Customer communication workflow
-- Reservation follow-up structure
-- Business organization
-- Final launch polish preparation
+Milestone:
+Complete platform foundation.
+
+Includes:
+- Brand experience
+- Customer journey
+- Breed showcase structure
+- Reservation workflow
+- Customer communication preparation
+- Launch readiness checklist
 
 Assets:
 images/logo.png
@@ -13,8 +18,16 @@ images/story.jpg
 images/chicks.jpg
 images/flock.jpg
 
-Preparation:
-- Connect email tools
-- Connect reservation forms
+Breed images:
+breeds/silkie.jpg
+breeds/rhode-island-red.jpg
+breeds/australorp.jpg
+breeds/buff-orpington.jpg
+breeds/leghorn.jpg
+
+Final steps:
+- Add real content
+- Connect forms
 - Add live availability
-- Complete final launch review
+- Connect domain
+- Publish
