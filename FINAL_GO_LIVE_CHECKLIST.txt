@@ -1,0 +1,21 @@
+Harley's Hatchery Go-Live Checklist
+
+Completed:
+✓ Website pages
+✓ Reservation flow
+✓ Store structure
+✓ Breed structure
+✓ Care resources
+✓ Styling
+
+Before launch:
+□ Logo added
+□ Photos added
+□ Inventory loaded
+□ Pricing added
+□ Payments connected
+□ Domain connected
+□ Hosting deployed
+□ Mobile tested
+□ Orders tested
+□ Website published
