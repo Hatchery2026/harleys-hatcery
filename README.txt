@@ -1,25 +1,22 @@
-Harley's Hatchery Version 5.0 - Launch Edition
+Harley's Hatchery Version 5.1 - Final Real Website Build
 
-Final website assembly package.
+Purpose:
+Move from template structure into the real branded website.
 
-Includes:
-- Home
-- Shop Chicks
-- Reserve
-- Chick Care
-- About
-- Gallery
-- Contact
-
-Final assets to add:
+Add:
 images/logo.png
 images/hero.jpg
-images/chicks-1.jpg
-images/chicks-2.jpg
+images/chicks.jpg
 images/flock.jpg
 
-Before launch:
-- Add professional breed photos
+Breed photos:
+breed_images/silkie.jpg
+breed_images/rhode-island-red.jpg
+breed_images/australorp.jpg
+breed_images/buff-orpington.jpg
+breed_images/leghorn.jpg
+
+Final steps:
+- Insert real photos
 - Connect forms
-- Connect domain/hosting
-- Final mobile review
+- Add domain/hosting
