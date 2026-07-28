@@ -1,20 +1,20 @@
-Harley's Hatchery Version 9.4 - Advanced Customer Community & Brand Expansion Edition
+Harley's Hatchery Version 9.5 - Premium Business Growth & Enterprise Feature Edition
 
 Focus:
-- Customer community features
-- Reviews and testimonials structure
-- Referral system preparation
-- Brand expansion tools
-- Community growth
+- Advanced business tools
+- Marketing automation preparation
+- Expanded reporting
+- Customer systems
+- Growth planning
 
 Assets:
 images/logo.png
 images/hero.jpg
+images/story.jpg
 images/customers.jpg
-images/community.jpg
 
 Preparation:
-- Add real customer stories
-- Connect social media
-- Add referral tracking
-- Add review tools
+- Connect business software
+- Add live customer data
+- Add automation systems
+- Add advanced reporting
