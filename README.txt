@@ -1,15 +1,15 @@
-Harley's Hatchery Version 12.7 - Advanced Breeding Management, Genetics & Hatch Planning System Edition
+Harley's Hatchery Version 12.8 - Advanced Farm Management, Supply Chain & Resource Planning Edition
 
 Focus:
-- Breeding records
-- Genetics tracking
-- Hatch planning
-- Pair management
-- Future flock development
+- Feed and supply tracking
+- Equipment management
+- Farm task scheduling
+- Resource planning
+- Complete hatchery operations control
 
 Preparation:
-- Add flock database
-- Add breeding records
-- Connect hatch scheduling
-- Add genetics information
-- Add production tracking
+- Connect inventory systems
+- Add supplier information
+- Add equipment records
+- Add task management tools
+- Connect operational dashboards
