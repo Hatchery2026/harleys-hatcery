@@ -1,5 +1,5 @@
-Harley's Hatchery 34.0_Next_Generation_Hatchery_Universe
+Harley's Hatchery 35.0_Future_Hatchery_Intelligence_Platform
 
-A future platform vision connecting AI, flock intelligence, customers, community, and smart hatchery operations.
+A next evolution platform combining AI, flock intelligence, customers, community, and smart hatchery systems.
 
-Part of the complete Version 34 collection.
+Part of the complete Version 35 collection.
