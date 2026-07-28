@@ -1,0 +1,19 @@
+Harley's Hatchery Production Roadmap
+
+Completed:
+✓ Phase 1 Website Foundation
+✓ Phase 2 Brand Integration
+
+Upcoming:
+Phase 3 - Business Features
+- Inventory
+- Pricing
+- Breed availability
+- Order forms
+- Customer information
+
+Phase 4 - Launch
+- Domain
+- Hosting
+- Testing
+- Live website
