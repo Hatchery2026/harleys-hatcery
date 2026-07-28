@@ -1,11 +1,11 @@
-Harley's Hatchery Version 21.3 - Advanced Bio-Innovation Lab, Poultry Genetics Intelligence & Future Animal Science Network Edition
+Harley's Hatchery Version 21.4 - Advanced Space Agriculture Concepts, Off-World Farming Research & Extreme Environment Poultry Systems Edition
 
 Next Century Era:
-Expanding into advanced poultry science and biological innovation.
+Exploring future agriculture beyond traditional environments.
 
 Focus:
-- Advanced poultry science
-- Genetics intelligence systems
-- Animal health innovation
-- Research networks
-- Future biological technology
+- Future agriculture environments
+- Extreme climate systems
+- Space farming concepts
+- Advanced habitat research
+- Next-generation food production
