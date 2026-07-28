@@ -1,45 +1,11 @@
-body{
-font-family:Georgia,serif;
-background:#fff8ed;
-color:#4d4055;
-text-align:center;
-margin:0;
-}
-header{
-background:white;
-padding:25px;
-}
-nav a{
-margin:10px;
-color:#80609a;
-text-decoration:none;
-}
-.hero{
-padding:80px;
-background:#f3e8ff;
-}
-.cards{
-display:flex;
-justify-content:center;
-gap:20px;
-flex-wrap:wrap;
-padding:40px;
-}
-.cards div,.product{
-background:white;
-padding:25px;
-margin:20px;
-border-radius:18px;
-}
-button{
-background:#80609a;
-color:white;
-border:0;
-padding:12px 25px;
-border-radius:20px;
-}
-input,textarea{
-padding:10px;
-margin:8px;
-width:250px;
-}
+body{margin:0;font-family:Georgia,serif;background:#fff8ed;color:#4d4055;text-align:center}
+header{background:white;padding:25px}
+.brand{font-size:30px;color:#80609a;font-weight:bold}
+nav a{margin:12px;color:#4d4055;text-decoration:none}
+.hero{padding:90px 20px;background:#f3e8ff}
+.hero h1{font-size:50px;color:#80609a}
+.btn,button{background:#80609a;color:white;border:0;padding:12px 24px;border-radius:20px;text-decoration:none}
+.section{padding:40px}
+.grid{display:flex;justify-content:center;gap:20px;flex-wrap:wrap}
+.card{background:white;padding:25px;border-radius:20px;min-width:200px;box-shadow:0 4px 12px #ddd}
+input,textarea{padding:10px;margin:8px;width:250px}

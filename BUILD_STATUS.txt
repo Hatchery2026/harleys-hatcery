@@ -1,15 +1,17 @@
-Harley's Hatchery Storefront Build v1
+Harley's Hatchery Storefront Build v2
 
 Built:
-✓ Homepage
-✓ Chick Store
-✓ Breed Center
+✓ Improved homepage
+✓ Featured breeds
+✓ Store cards
+✓ Breed center
+✓ Care center
 ✓ Reservation page
-✓ Product layout
 
 Next:
 - Add logo image
 - Add real photos
-- Add prices
+- Add pricing
 - Add inventory
-- Connect payments
+- Add payments
+- Deploy online
