@@ -1,15 +1,15 @@
-Harley's Hatchery Version 11.5 - Community, Reviews & Customer Loyalty Experience Edition
+Harley's Hatchery Version 11.6 - Advanced Marketing, Email Automation & Customer Growth Edition
 
 Focus:
-- Customer photo gallery
-- Flock stories
-- Reviews and testimonials
-- Loyalty rewards
-- Community engagement
+- Email campaigns
+- Customer notifications
+- Hatch reminders
+- Promotional campaigns
+- Automated customer journeys
 
 Preparation:
-- Add real customer photos
-- Add testimonials
-- Connect loyalty system
-- Add social media links
-- Enable customer submissions
+- Connect email platform
+- Add customer segments
+- Add automation triggers
+- Connect analytics
+- Add campaign content
