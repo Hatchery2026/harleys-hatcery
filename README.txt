@@ -1,25 +1,18 @@
-Harley's Hatchery Version 9.2 - Live Storefront & Customer Conversion Edition
+Harley's Hatchery Version 9.3 - Premium Customer Experience & Retention Edition
 
 Focus:
-- Customer shopping experience
-- Breed sales pages
-- Reservation conversion improvements
-- Customer checkout flow preparation
+- Customer accounts structure
+- Order history experience
+- Post-purchase support
+- Loyalty and retention features
 
 Assets:
 images/logo.png
 images/hero.jpg
-images/chicks.jpg
-
-Breed images:
-breeds/silkie.jpg
-breeds/rhode-island-red.jpg
-breeds/australorp.jpg
-breeds/buff-orpington.jpg
-breeds/leghorn.jpg
+images/customers.jpg
 
 Preparation:
-- Connect payment/reservation tools
-- Add live availability
-- Add pricing
-- Add customer forms
+- Connect customer accounts
+- Add reservation history
+- Add loyalty program details
+- Connect customer communication tools
