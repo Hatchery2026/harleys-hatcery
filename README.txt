@@ -1,22 +1,30 @@
-Harley's Hatchery Version 5.9 - Pre Launch Final Review
+Harley's Hatchery Version 6.0 - Final Launch Edition
 
-Final review package.
+Final launch foundation.
 
-Focus:
-- Customer journey check
-- Brand consistency
-- Final homepage polish
-- Launch preparation
+Included:
+- Homepage
+- Brand presentation
+- Customer journey
+- Photo placement
+- Breed showcase structure
 
-Replace:
+Add final assets:
 images/logo.png
 images/hero.jpg
 images/story.jpg
 images/chicks.jpg
 images/flock.jpg
 
-Final launch checklist:
-- Add real photos
-- Connect forms
+Breed photos:
+breeds/silkie.jpg
+breeds/rhode-island-red.jpg
+breeds/australorp.jpg
+breeds/buff-orpington.jpg
+breeds/leghorn.jpg
+
+Before publishing:
 - Connect domain
-- Test mobile layout
+- Connect forms
+- Add final photos
+- Complete mobile testing
