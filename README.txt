@@ -1,15 +1,15 @@
-Harley's Hatchery Version 12.4 - Customer Portal, Order Tracking & Lifetime Flock Experience Edition
+Harley's Hatchery Version 12.5 - Advanced Mobile App Experience & Customer Connection Edition
 
 Focus:
-- Customer accounts
-- Order history
-- Reservation tracking
-- Hatch updates
-- Long-term customer relationship tools
+- Mobile-friendly customer experience
+- Push notification planning
+- Hatch alerts
+- Customer messaging
+- On-the-go flock management
 
 Preparation:
-- Connect customer database
-- Add account login
-- Connect order system
-- Add notifications
-- Connect loyalty features
+- Build mobile application
+- Connect notifications
+- Add customer accounts
+- Connect reservation system
+- Add messaging features
