@@ -1,23 +1,19 @@
-Harley's Hatchery Version 5.7 - Final Brand Showcase
+Harley's Hatchery Version 5.8 - Final Launch Polish
 
 Focus:
-- Premium homepage presentation
-- Stronger brand storytelling
-- Final showcase layout
+- Final customer flow polish
+- Final homepage presentation
+- Launch-ready structure
 
-Add:
+Add final assets:
 images/logo.png
 images/hero.jpg
+images/story.jpg
 images/chicks.jpg
 images/flock.jpg
-images/story.jpg
 
-Breed images:
-breeds/silkie.jpg
-breeds/rhode-island-red.jpg
-breeds/australorp.jpg
-breeds/buff-orpington.jpg
-breeds/leghorn.jpg
-
-Next:
-Final launch preparation and real asset placement.
+Final steps:
+- Replace placeholders
+- Connect forms
+- Add hosting/domain
+- Final mobile review
