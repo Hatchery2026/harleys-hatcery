@@ -1,15 +1,15 @@
-Harley's Hatchery Version 12.8 - Advanced Farm Management, Supply Chain & Resource Planning Edition
+Harley's Hatchery Version 12.9 - Advanced Financial Management, Pricing Strategy & Business Growth System Edition
 
 Focus:
-- Feed and supply tracking
-- Equipment management
-- Farm task scheduling
-- Resource planning
-- Complete hatchery operations control
+- Revenue tracking
+- Cost management
+- Pricing tools
+- Profit analysis
+- Business growth planning
 
 Preparation:
-- Connect inventory systems
-- Add supplier information
-- Add equipment records
-- Add task management tools
-- Connect operational dashboards
+- Connect accounting systems
+- Add real sales data
+- Add expense tracking
+- Connect inventory costs
+- Build financial reports
