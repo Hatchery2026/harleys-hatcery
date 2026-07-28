@@ -1,20 +1,12 @@
-Harley's Hatchery Version 4.6 - Visual Transformation
+Harley's Hatchery Version 4.7 - Real Brand Integration
 
-This version focuses on making the website LOOK different.
+Brand-focused update.
 
-Updates:
-- Larger hero layout
-- Premium farmhouse styling
-- Dedicated photo sections
-- Stronger brand presentation
-- Real photo/logo replacement points
-
-Replace:
+Add your real files:
 images/logo.png
 images/hero.jpg
 images/chicks-1.jpg
 images/chicks-2.jpg
 images/flock.jpg
 
-Next step:
-Insert final personal photos and breed photography.
+This version is prepared for inserting official Harley's Hatchery branding and photography.
