@@ -1,11 +1,11 @@
-Harley's Hatchery Version 22.5 - Learning Center, Hatchery Education Hub & Customer Knowledge Experience Edition
+Harley's Hatchery Version 22.6 - Community Network, Customer Forum & Social Experience Edition
 
 New Millennium Era:
-Building the education and knowledge layer for Harley's Hatchery customers.
+Building the connection layer where customers can learn, share, and grow together.
 
 Focus:
-- Education center
-- Chick care guides
-- Video learning concepts
-- Expert resources
-- Customer knowledge library
+- Customer community
+- Discussion spaces
+- Member profiles
+- Sharing experiences
+- Community engagement
