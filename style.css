@@ -5,24 +5,29 @@ font-family:Georgia,serif;
 color:#555;
 text-align:center;
 }
+
 nav{
 background:white;
 padding:20px;
 display:flex;
 justify-content:space-around;
 }
+
 .hero{
 background:#f3e8ff;
 padding:120px 40px;
 }
+
 h1,h2{
 color:#806b95;
 }
+
 button{
 padding:15px 35px;
 border-radius:25px;
 border:none;
 }
+
 .cards{
 display:flex;
 justify-content:center;
@@ -30,6 +35,7 @@ gap:25px;
 flex-wrap:wrap;
 padding:50px;
 }
+
 .cards div,.launch{
 background:white;
 padding:35px;
@@ -37,10 +43,12 @@ border-radius:30px;
 max-width:280px;
 box-shadow:0 8px 20px #ddd;
 }
+
 .launch{
 margin:30px auto;
 max-width:500px;
 }
+
 footer{
 padding:30px;
 }
