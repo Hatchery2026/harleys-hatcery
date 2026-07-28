@@ -1,0 +1,28 @@
+Harley's Hatchery Master Website Map
+
+HOME
+- Welcome
+- Brand story
+- Opening announcement
+- Featured breeds
+
+STORE
+- Chick listings
+- Breed availability
+- Maximum order quantity: 12 chicks
+
+BREEDS
+- Breed profiles
+- Traits
+- Care information
+
+EDUCATION
+- Chick care guides
+- Learning resources
+
+ABOUT
+- Story
+- Mission
+
+CONTACT
+- Customer support
