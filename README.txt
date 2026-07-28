@@ -1,21 +1,14 @@
-Harley's Hatchery Version 10.5 - Premium Visual Design & Customer Experience Edition
+Harley's Hatchery Version 10.6 - Complete Storefront & Reservation Experience Edition
 
 Focus:
-- Premium homepage design
-- Professional farm branding
-- Customer trust sections
-- Improved breed presentation
-- Mobile-first design preparation
-
-Assets:
-images/logo.png
-images/hero.jpg
-images/chicks.jpg
-images/flock.jpg
-images/story.jpg
+- Chick shop layout
+- Individual breed sales pages
+- Reservation flow
+- Availability display
+- Customer purchase journey
 
 Preparation:
-- Add professional photos
-- Add testimonials
-- Connect reservation forms
-- Optimize mobile experience
+- Add live inventory
+- Add pricing
+- Connect reservation/payment tools
+- Add real breed photos
