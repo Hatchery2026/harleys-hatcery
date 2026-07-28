@@ -1,74 +1,45 @@
 body{
-margin:0;
 font-family:Georgia,serif;
-background:#fffaf3;
+background:#fff8ed;
 color:#4d4055;
-}
-.top{
-background:#80609a;
-color:white;
-padding:10px;
 text-align:center;
+margin:0;
 }
 header{
 background:white;
-display:flex;
-justify-content:space-around;
-align-items:center;
-padding:20px;
+padding:25px;
 }
-.logo{
-text-align:center;
-font-size:28px;
-color:#80609a;
-}
-.logo span{font-size:22px}
 nav a{
 margin:10px;
+color:#80609a;
 text-decoration:none;
-color:#4d4055;
-}
-.button{
-background:#80609a;
-color:white!important;
-padding:12px 22px;
-border-radius:20px;
 }
 .hero{
-display:flex;
-justify-content:space-around;
-align-items:center;
-padding:70px;
-background:linear-gradient(90deg,#f7eadb,#fff);
+padding:80px;
+background:#f3e8ff;
 }
-.hero h1{
-font-size:55px;
-color:#80609a;
-}
-.chicks{
-font-size:100px;
-}
-.features,.breeds{
+.cards{
 display:flex;
 justify-content:center;
 gap:20px;
 flex-wrap:wrap;
 padding:40px;
 }
-.features div,.breeds div{
+.cards div,.product{
 background:white;
 padding:25px;
-border-radius:15px;
-text-align:center;
-box-shadow:0 5px 15px #ddd;
+margin:20px;
+border-radius:18px;
 }
-.breeds div{
-width:150px;
-}
-h2{text-align:center;color:#80609a}
-footer{
+button{
 background:#80609a;
 color:white;
-padding:25px;
-text-align:center;
+border:0;
+padding:12px 25px;
+border-radius:20px;
+}
+input,textarea{
+padding:10px;
+margin:8px;
+width:250px;
 }
