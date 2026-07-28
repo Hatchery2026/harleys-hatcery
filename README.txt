@@ -1,11 +1,11 @@
-Harley's Hatchery Version 23.7 - Marketing Automation, Customer Engagement Engine & Growth Campaign Platform Edition
+Harley's Hatchery Version 23.8 - SEO Optimization, Search Visibility & Digital Discovery Platform Edition
 
 Production Website Build:
-Adding the growth engine that helps Harley's Hatchery reach and retain customers.
+Improving online discovery and customer acquisition pathways.
 
 Focus:
-- Email systems
-- Customer campaigns
-- Marketing automation
-- Loyalty engagement
-- Growth tracking
+- Search engine optimization
+- Website discoverability
+- Content strategy
+- Online visibility
+- Customer acquisition pathways
