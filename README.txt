@@ -1,17 +1,17 @@
-Harley's Hatchery Version 16.4 - Customer Retention, Loyalty Program & Repeat Customer Growth System Edition
+Harley's Hatchery Version 16.5 - Partnerships, Affiliate Growth & Local Community Expansion System Edition
 
 Phase 4 Development:
-Building systems that create lifelong customer relationships.
+Building the ecosystem around Harley's Hatchery.
 
 Focus:
-- Loyalty program
-- Customer rewards
-- Repeat reservations
-- Email retention campaigns
-- Long-term customer relationships
+- Farm partnerships
+- Local business collaborations
+- Affiliate programs
+- Community events
+- Brand expansion
 
 Preparation:
-- Connect customer accounts
-- Add rewards tracking
-- Build retention campaigns
-- Measure customer lifetime value
+- Create partner database
+- Build affiliate tracking
+- Develop community campaigns
+- Add partnership workflows
