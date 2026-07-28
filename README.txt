@@ -1,10 +1,11 @@
-Harley's Hatchery Version 8.7 - Advanced Customer & Business Intelligence Edition
+Harley's Hatchery Version 8.8 - Advanced Marketing, Sales & Customer Growth Platform
 
 Focus:
-- Customer analytics structure
-- Business insights
-- Automated workflow preparation
-- Growth tracking
+- Sales tracking structure
+- Marketing campaign preparation
+- Customer retention tools
+- Promotional systems
+- Growth strategy features
 
 Assets:
 images/logo.png
@@ -12,7 +13,7 @@ images/hero.jpg
 images/story.jpg
 
 Preparation:
-- Connect analytics tools
-- Add live customer data
-- Connect reporting systems
-- Add automation workflows
+- Connect marketing tools
+- Add promotions
+- Track customer activity
+- Add sales reporting
