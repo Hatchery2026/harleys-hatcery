@@ -1,0 +1,17 @@
+Homepage Final Layout
+
+Header:
+- Harley's Hatchery logo
+- Navigation
+- Reserve Chicks button
+
+Hero:
+Quality Chicks. Raised With Care.
+
+Sections:
+- Welcome message
+- Featured breeds
+- Why choose Harley's Hatchery
+- Chick care promise
+- Customer reviews
+- Reserve chicks call-to-action

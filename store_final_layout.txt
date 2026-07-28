@@ -1,0 +1,30 @@
+Chick Store Final Layout
+
+Product Cards:
+
+Silkie Chicks
+- Photo
+- Description
+- Price
+- Availability
+- Hatch date
+- Reserve button
+
+Buff Orpington Chicks
+- Photo
+- Description
+- Price
+- Availability
+- Hatch date
+- Reserve button
+
+Barred Rock Chicks
+- Photo
+- Description
+- Price
+- Availability
+- Hatch date
+- Reserve button
+
+Order Limit:
+12 chicks
