@@ -28,25 +28,38 @@ background:#f5ecff;
 padding:60px;
 }
 
-.cards,.guides{
-display:flex;
-justify-content:center;
-flex-wrap:wrap;
-gap:25px;
+.story{
 padding:40px;
 }
 
-.card,.guide,.tip{
+.story-image{
+width:400px;
+height:300px;
+object-fit:cover;
+border-radius:35px;
+}
+
+.card,.cards div,.quote{
 background:white;
-width:260px;
 padding:30px;
 border-radius:30px;
 box-shadow:0 8px 20px #ddd;
+margin:20px auto;
+max-width:500px;
 }
 
-.tip{
-margin:30px auto;
-width:60%;
+.cards{
+display:flex;
+justify-content:center;
+gap:20px;
+flex-wrap:wrap;
+}
+
+.cards div{
+width:180px;
+}
+
+.quote{
 background:#f5ecff;
 }
 
