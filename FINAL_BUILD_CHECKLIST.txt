@@ -1,20 +1,19 @@
 Harley's Hatchery Final Build Checklist
 
 Completed:
-✓ Website foundation
-✓ Brand integration
+✓ Website structure
+✓ Brand planning
 ✓ Business feature planning
 ✓ Launch preparation
 
-Final production:
-□ Add logo assets
-□ Apply final brand colors
-□ Add breed photography
-□ Add breed listings
+Final production items:
+□ Add official logo
+□ Add final colors
+□ Add breed photos
+□ Add live breed listings
 □ Add pricing
 □ Add inventory
 □ Add ordering/payment system
 □ Connect domain
-□ Configure hosting
-□ Test website
-□ Launch live website
+□ Deploy website
+□ Launch
