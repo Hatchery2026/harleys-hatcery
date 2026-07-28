@@ -1,0 +1,22 @@
+Product System
+
+Each chick listing includes:
+
+- Breed name
+- Breed photo
+- Description
+- Personality
+- Care information
+- Price
+- Hatch date
+- Availability
+- Quantity available
+- Reserve button
+
+Initial breeds:
+- Silkies
+- Buff Orpingtons
+- Barred Rocks
+- Australorps
+- Easter Eggers
+- Rhode Island Reds

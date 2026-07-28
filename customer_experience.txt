@@ -1,0 +1,12 @@
+Customer Experience Flow
+
+1. Customer lands on Harley's Hatchery homepage
+2. Views featured breeds
+3. Opens Chick Store
+4. Reviews breed information
+5. Selects quantity
+6. Submits reservation
+7. Receives confirmation
+
+Main call-to-action:
+Reserve Your Chicks
