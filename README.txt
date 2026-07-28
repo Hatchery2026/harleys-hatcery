@@ -1,18 +1,17 @@
-Harley's Hatchery Version 15.2 - Live Chick Inventory, Breed Database & Availability Management System Edition
+Harley's Hatchery Version 15.3 - Reservation Checkout Flow, Customer Orders & Confirmation System Edition
 
 Phase 3 Development:
-Building the systems customers use to browse and select chicks.
+Building the customer purchase and reservation journey.
 
 Focus:
-- Chick catalog structure
-- Breed database
-- Availability calendar
-- Hatch schedules
-- Inventory management
+- Reservation checkout
+- Customer order records
+- Confirmation pages
+- Pickup details
+- Customer notifications
 
 Preparation:
-- Connect live inventory database
-- Add real breed information
-- Add pricing
-- Connect reservations
-- Add availability updates
+- Connect payment processing
+- Connect customer accounts
+- Add email notifications
+- Connect live inventory
