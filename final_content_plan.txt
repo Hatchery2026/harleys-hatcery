@@ -1,0 +1,25 @@
+Final Website Content Plan
+
+Homepage:
+- Hero image
+- Harley's Hatchery logo
+- Mission statement
+- Featured breeds
+- Customer reviews
+- Reserve chicks section
+
+Store:
+- Product images
+- Breed descriptions
+- Price
+- Hatch dates
+- Availability
+- Reserve buttons
+
+Breeds:
+- Silkies
+- Buff Orpingtons
+- Barred Rocks
+- Australorps
+- Easter Eggers
+- Rhode Island Reds
