@@ -1,20 +1,19 @@
-Harley's Hatchery Version 9.5 - Premium Business Growth & Enterprise Feature Edition
+Harley's Hatchery Version 9.6 - Advanced Operations, Automation & Scaling Edition
 
 Focus:
-- Advanced business tools
-- Marketing automation preparation
-- Expanded reporting
-- Customer systems
-- Growth planning
+- Advanced business workflows
+- Operations scaling
+- Owner/team management structure
+- Deeper analytics preparation
+- Growth systems
 
 Assets:
 images/logo.png
 images/hero.jpg
 images/story.jpg
-images/customers.jpg
 
 Preparation:
-- Connect business software
-- Add live customer data
-- Add automation systems
-- Add advanced reporting
+- Add team access tools
+- Connect operations software
+- Add advanced analytics
+- Connect automation systems
