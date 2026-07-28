@@ -1,15 +1,15 @@
-Harley's Hatchery Version 12.2 - Live Storefront, Real Inventory & Customer Booking Experience Edition
+Harley's Hatchery Version 12.3 - Premium Ecommerce Experience & Customer Checkout Edition
 
 Focus:
-- Real chick listing layouts
-- Availability calendar
-- Reservation forms
-- Customer booking flow
-- Breed shopping experience
+- Product-style chick pages
+- Reservation checkout experience
+- Customer order confirmation
+- Payment integration preparation
+- Improved shopping experience
 
 Preparation:
-- Add live inventory
-- Add pricing
-- Connect payment processing
-- Connect reservation database
-- Add real hatch schedules
+- Add real pricing
+- Connect payment processor
+- Add customer accounts
+- Connect inventory system
+- Add order notifications
