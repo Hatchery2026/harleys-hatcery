@@ -1,13 +1,25 @@
-Harley's Hatchery Version 4.9 - Final Launch Preparation
+Harley's Hatchery Version 5.0 - Launch Edition
 
-Final preparation package.
+Final website assembly package.
 
-Checklist:
-- Insert official Harley's Hatchery logo
-- Add personal hatchery photos
+Includes:
+- Home
+- Shop Chicks
+- Reserve
+- Chick Care
+- About
+- Gallery
+- Contact
+
+Final assets to add:
+images/logo.png
+images/hero.jpg
+images/chicks-1.jpg
+images/chicks-2.jpg
+images/flock.jpg
+
+Before launch:
 - Add professional breed photos
-- Connect navigation links
-- Connect reservation/contact forms
-- Review mobile layout
-
-Ready for Version 5.0 Launch Edition.
+- Connect forms
+- Connect domain/hosting
+- Final mobile review
