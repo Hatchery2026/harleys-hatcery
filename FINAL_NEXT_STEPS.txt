@@ -1,0 +1,12 @@
+Final Production Steps
+
+1. Add official logo assets
+2. Apply final brand colors
+3. Add real breed photography
+4. Add breed listings
+5. Add pricing and inventory
+6. Add ordering/payment system
+7. Connect domain
+8. Configure hosting
+9. Test customer experience
+10. Launch live website
