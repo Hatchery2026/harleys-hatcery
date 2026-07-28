@@ -22,33 +22,37 @@ h1,h2{
 color:#806b95;
 }
 
-.cart,.checkout,.confirmation{
-background:white;
-margin:30px auto;
-padding:35px;
-border-radius:30px;
-max-width:500px;
-box-shadow:0 8px 20px #ddd;
+.dashboard{
+display:flex;
+justify-content:center;
+gap:25px;
+flex-wrap:wrap;
+padding:50px;
 }
 
-.item{
-padding:20px;
-border-radius:20px;
-background:#faf2e8;
-margin:15px;
+.dashboard div,.login{
+background:white;
+padding:35px;
+border-radius:30px;
+box-shadow:0 8px 20px #ddd;
+max-width:260px;
+}
+
+.login{
+margin:30px auto;
+max-width:400px;
 }
 
 input{
 display:block;
 margin:15px auto;
 padding:14px;
-width:80%;
 border-radius:20px;
 border:1px solid #ddd;
 }
 
 button{
-padding:15px 35px;
+padding:14px 35px;
 border-radius:25px;
 border:none;
 }
