@@ -1,15 +1,15 @@
-Harley's Hatchery Version 12.5 - Advanced Mobile App Experience & Customer Connection Edition
+Harley's Hatchery Version 12.6 - Advanced Community Platform & Social Flock Network Edition
 
 Focus:
-- Mobile-friendly customer experience
-- Push notification planning
-- Hatch alerts
-- Customer messaging
-- On-the-go flock management
+- Customer community
+- Flock photo sharing
+- Breed discussions
+- Community events
+- Customer engagement system
 
 Preparation:
-- Build mobile application
-- Connect notifications
-- Add customer accounts
-- Connect reservation system
-- Add messaging features
+- Add customer profiles
+- Connect photo uploads
+- Add moderation tools
+- Add community notifications
+- Connect mobile experience
