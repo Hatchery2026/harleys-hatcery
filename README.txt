@@ -1,11 +1,11 @@
-Harley's Hatchery Version 23.6 - Advanced Analytics Dashboard, Business Intelligence & Hatchery Performance Monitoring Edition
+Harley's Hatchery Version 23.7 - Marketing Automation, Customer Engagement Engine & Growth Campaign Platform Edition
 
 Production Website Build:
-Adding the intelligence center behind Harley's Hatchery operations.
+Adding the growth engine that helps Harley's Hatchery reach and retain customers.
 
 Focus:
-- Customer analytics
-- Business dashboards
-- Sales insights
-- Hatchery performance tracking
-- Data-driven decisions
+- Email systems
+- Customer campaigns
+- Marketing automation
+- Loyalty engagement
+- Growth tracking
