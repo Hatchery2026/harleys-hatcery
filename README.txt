@@ -1,17 +1,17 @@
-Harley's Hatchery Version 15.4 - Payment Integration, Customer Billing & Secure Transaction System Edition
+Harley's Hatchery Version 15.5 - Customer Notifications, Email Automation & Reservation Communication System Edition
 
 Phase 3 Development:
-Building secure customer payment and transaction foundations.
+Building customer communication systems.
 
 Focus:
-- Payment workflow foundation
-- Secure checkout structure
-- Billing records
-- Transaction history
-- Payment confirmations
+- Automated emails
+- Reservation reminders
+- Hatch updates
+- Customer communication center
+- Support notifications
 
 Preparation:
-- Connect payment provider
-- Add secure authentication
+- Connect email service
+- Add SMS notifications
 - Connect customer accounts
-- Add financial reporting
+- Add automation workflows
