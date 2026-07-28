@@ -1,10 +1,10 @@
-Harley's Hatchery Version 25.5 - Customer Accounts, Login System & Personal Hatchery Dashboard Build
+Harley's Hatchery Version 25.6 - Order Tracking, Shipping Updates & Customer Fulfillment Experience Build
 
 Created:
-- Customer login interface
-- Account dashboard
-- Personal flock section
-- Order history area
-- Saved resources section
+- Order tracking interface
+- Shipment status timeline
+- Customer notification area
+- Hatchery preparation updates
+- Post-purchase experience structure
 
-This begins the personalized customer portal experience.
+This expands the customer journey after checkout.
