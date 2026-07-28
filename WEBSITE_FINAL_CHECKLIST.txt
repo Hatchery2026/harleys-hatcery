@@ -1,0 +1,24 @@
+Harley's Hatchery Website Final Checklist
+
+Website:
+[ ] Homepage complete
+[ ] Chick Store complete
+[ ] Breed pages complete
+[ ] Contact page complete
+
+Content:
+[ ] Logo added
+[ ] Photos added
+[ ] Prices added
+[ ] Inventory added
+
+Business:
+[ ] Orders connected
+[ ] Email notifications connected
+[ ] Payment setup complete
+
+Launch:
+[ ] Domain connected
+[ ] Hosting connected
+[ ] Mobile tested
+[ ] Website published
