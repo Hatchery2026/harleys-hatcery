@@ -1,0 +1,17 @@
+Store System
+
+Product Card:
+
+Breed Name:
+Photo:
+Description:
+Personality:
+Care:
+Price:
+Hatch Date:
+Availability:
+Quantity:
+Reserve Button:
+
+Order Limit:
+12 chicks
