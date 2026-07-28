@@ -10,7 +10,7 @@ background:white;
 padding:25px;
 }
 nav a{
-margin:10px;
+margin:12px;
 color:#806b95;
 text-decoration:none;
 }
@@ -19,21 +19,20 @@ padding:100px 20px;
 background:#f3e8ff;
 }
 .button{
-display:inline-block;
 padding:12px 25px;
 background:#806b95;
 color:white;
 border-radius:20px;
 text-decoration:none;
 }
-.grid{
+.cards{
 display:flex;
 justify-content:center;
 gap:20px;
 flex-wrap:wrap;
 padding:40px;
 }
-.grid div{
+.cards div{
 background:white;
 padding:25px;
 border-radius:20px;

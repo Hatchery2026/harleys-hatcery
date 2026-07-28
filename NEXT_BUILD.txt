@@ -1,0 +1,14 @@
+Final Website Build Next Steps
+
+Completed:
+- Real website structure
+- Customer pages
+- Brand styling foundation
+
+Next:
+- Add logo
+- Add real chick photos
+- Add breed inventory
+- Add prices
+- Add checkout/order system
+- Connect domain
