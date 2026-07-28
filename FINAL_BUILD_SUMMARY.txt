@@ -1,0 +1,41 @@
+Harley's Hatchery Nearly Launch Final Build
+
+Combined website direction:
+
+1. Professional Homepage
+- Premium hatchery layout
+- Lavender/purple branding
+- Warm farm-inspired styling
+- Navigation
+- Hero section
+- Trust sections
+- Breed showcase
+
+2. Customer Website Pages
+- Home
+- Chick Store
+- Breed Center
+- Chick Care
+- About
+- Contact
+- Reserve Chicks
+
+3. Business Features Ready To Add
+- Breed inventory
+- Pricing
+- Availability dates
+- Order system
+- Payments
+- Customer notifications
+
+4. Launch Checklist
+- Add final logo
+- Add real chick photography
+- Add products
+- Connect domain
+- Deploy hosting
+- Test orders
+- Go live
+
+Opening Date:
+September 28th, 2026

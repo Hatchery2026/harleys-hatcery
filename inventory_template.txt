@@ -1,0 +1,14 @@
+Harley's Hatchery Inventory
+
+Breed:
+Availability:
+Hatch Date:
+Price:
+Quantity Available:
+
+Example:
+Silkie
+Coming Soon
+September 28th, 2026
+Add price
+Add quantity

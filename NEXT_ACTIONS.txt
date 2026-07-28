@@ -1,0 +1,14 @@
+Final Push:
+
+Priority 1:
+- Add real Harley's Hatchery logo
+- Add real chick/breed photos
+
+Priority 2:
+- Build Chick Store
+- Add breed cards
+- Add pricing and inventory
+
+Priority 3:
+- Connect ordering/payment
+- Deploy website

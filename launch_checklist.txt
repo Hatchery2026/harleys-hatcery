@@ -1,18 +1,17 @@
-Launch Checklist
+Go Live Checklist
 
 DONE:
-✓ Website planning
+✓ Website design direction
 ✓ Page structure
-✓ Brand framework
-✓ Customer experience planning
+✓ Customer flow
 
-NEXT:
-□ Add logo assets
+FINAL:
+□ Add logo
 □ Add photos
-□ Add inventory
+□ Add breed cards
 □ Add prices
-□ Build ordering workflow
+□ Add inventory
+□ Connect order form
+□ Connect email notifications
 □ Connect domain
-□ Connect hosting
-□ Test website
-□ Publish
+□ Publish website
