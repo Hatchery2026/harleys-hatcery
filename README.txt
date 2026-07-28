@@ -1,10 +1,13 @@
-Harley's Hatchery Version 6.3 - Final Website Showcase
+Harley's Hatchery Version 6.5 - Final Pre Launch Review
+
+Purpose:
+Final quality review before release candidate.
 
 Focus:
-- Final brand presentation
-- Homepage showcase
-- Breed showcase preparation
-- Gallery/story integration
+- Homepage polish
+- Customer journey
+- Mobile-friendly structure
+- Brand consistency
 
 Add final assets:
 images/logo.png
@@ -13,14 +16,9 @@ images/story.jpg
 images/chicks.jpg
 images/flock.jpg
 
-Breed images:
-breeds/silkie.jpg
-breeds/rhode-island-red.jpg
-breeds/australorp.jpg
-breeds/buff-orpington.jpg
-breeds/leghorn.jpg
-
-Final steps:
+Final checks:
 - Add real photos
-- Connect all pages
-- Final launch review
+- Connect forms
+- Verify all links
+- Test mobile
+- Prepare launch
