@@ -1,0 +1,40 @@
+Harley's Hatchery Complete Storefront Master Build
+
+Combined:
+
+CHICK STORE
+- Product cards
+- Breed selection
+- Availability
+- Hatch dates
+- Pricing areas
+- Reserve buttons
+
+BREED PRODUCT PAGES
+- Breed names
+- Photo sections
+- Descriptions
+- Personality traits
+- Care information
+- Egg production details
+- Availability
+- Quantity selection
+
+FEATURED BREEDS
+- Silkies
+- Buff Orpingtons
+- Barred Rocks
+- Australorps
+- Easter Eggers
+- Rhode Island Reds
+
+ORDER SETTINGS
+- Maximum order quantity: 12 chicks
+
+NEXT FINAL BUILD:
+- Add official logo
+- Add real photos
+- Add prices
+- Add inventory
+- Connect checkout/reservation system
+- Publish website
