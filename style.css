@@ -11,12 +11,11 @@ background:white;
 padding:20px;
 display:flex;
 justify-content:space-around;
-align-items:center;
 }
 
 .hero{
 background:#f3e8ff;
-padding:120px 40px;
+padding:110px 40px;
 }
 
 h1,h2{
@@ -29,29 +28,25 @@ border-radius:25px;
 border:none;
 }
 
-.brand,.gallery{
-background:white;
-margin:35px auto;
-padding:35px;
-max-width:600px;
-border-radius:30px;
-box-shadow:0 8px 20px #ddd;
-}
-
 .cards{
 display:flex;
 justify-content:center;
 gap:25px;
 flex-wrap:wrap;
-padding:40px;
+padding:50px;
 }
 
-.cards div{
+.cards div,.launch{
 background:white;
 padding:35px;
-max-width:260px;
 border-radius:30px;
+max-width:280px;
 box-shadow:0 8px 20px #ddd;
+}
+
+.launch{
+margin:30px auto;
+max-width:500px;
 }
 
 footer{
