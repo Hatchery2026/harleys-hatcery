@@ -1,0 +1,28 @@
+Website Pages
+
+1. Home
+- Welcome visitors
+- Brand introduction
+- Opening date announcement
+
+2. Store
+- Chick listings
+- Breed availability
+- Quantity limit planning (maximum 12)
+
+3. Breed Center
+- Breed information
+- Traits
+- Care information
+
+4. Education Center
+- Chick care
+- Learning resources
+
+5. About
+- Harley's Hatchery story
+- Mission
+
+6. Contact
+- Customer support
+- Order questions

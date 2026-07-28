@@ -1,0 +1,12 @@
+Final Launch Checklist
+
+[ ] Add logo
+[ ] Add official colors
+[ ] Add chick photos
+[ ] Add breed inventory
+[ ] Add pricing
+[ ] Add order system
+[ ] Connect domain
+[ ] Configure hosting
+[ ] Test mobile layout
+[ ] Publish website
