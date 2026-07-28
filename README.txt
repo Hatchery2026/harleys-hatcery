@@ -1,10 +1,10 @@
-Harley's Hatchery Version 8.6 - Complete Hatchery Operations Dashboard Edition
+Harley's Hatchery Version 8.7 - Advanced Customer & Business Intelligence Edition
 
 Focus:
-- Owner/admin dashboard structure
-- Customer order tracking
-- Business reporting preparation
-- Operations overview
+- Customer analytics structure
+- Business insights
+- Automated workflow preparation
+- Growth tracking
 
 Assets:
 images/logo.png
@@ -12,7 +12,7 @@ images/hero.jpg
 images/story.jpg
 
 Preparation:
-- Connect database/tools
-- Add live reservations
-- Add reporting data
-- Add admin access
+- Connect analytics tools
+- Add live customer data
+- Connect reporting systems
+- Add automation workflows
