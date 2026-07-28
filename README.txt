@@ -1,15 +1,15 @@
-Harley's Hatchery Version 13.5 - AI Automation, Autonomous Operations & Smart Hatchery Management Edition
+Harley's Hatchery Version 13.6 - Multi-Location Expansion, Franchise & Enterprise Scaling System Edition
 
 Focus:
-- Automated business workflows
-- AI operational assistant
-- Smart inventory actions
-- Automated customer journeys
-- Self-improving hatchery systems
+- Multiple hatchery locations
+- Expansion planning
+- Regional operations
+- Enterprise management
+- Scalable business architecture
 
 Preparation:
-- Connect operational databases
-- Add automation rules
-- Connect AI services
-- Add workflow triggers
-- Integrate monitoring systems
+- Add location databases
+- Create regional dashboards
+- Add franchise management tools
+- Connect enterprise reporting
+- Build expansion workflows
