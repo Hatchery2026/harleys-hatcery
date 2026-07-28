@@ -1,5 +1,5 @@
-Harley's Hatchery 37.0_Future_Intelligent_Hatchery_Universe
+Harley's Hatchery 38.0_Next_Generation_Hatchery_Intelligence
 
-A next-generation Harley's Hatchery ecosystem combining AI, flock intelligence, customers, community, and operations.
+A future Harley's Hatchery ecosystem combining AI, flock intelligence, customer experiences, and smart operations.
 
-Part of the complete Version 37 collection.
+Part of the complete Version 38 collection.
