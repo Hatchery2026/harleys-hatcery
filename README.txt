@@ -1,17 +1,17 @@
-Harley's Hatchery Version 14.5 - Homepage Care Center, Education & Customer Support Experience Edition
+Harley's Hatchery Version 14.6 - Homepage Community, Farm Story & Brand Connection Edition
 
 Phase 2 Development:
-Completing major customer-facing homepage sections.
+Completing the homepage storytelling experience.
 
 Focus:
-- Chick care preview
-- Educational resources
-- New owner guidance
-- FAQ sections
-- Support pathways
+- Harley's Hatchery story section
+- Farm values
+- Customer community preview
+- Emotional brand connection
+- Final homepage storytelling pieces
 
 Preparation:
-- Add real care articles
-- Add videos
-- Connect support system
-- Add FAQ database
+- Add real farm photos
+- Add founder story
+- Connect community features
+- Add customer stories

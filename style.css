@@ -28,14 +28,6 @@ h1,h2{
 color:#806b95;
 }
 
-button{
-background:#8aa06f;
-color:white;
-border:0;
-padding:16px 35px;
-border-radius:30px;
-}
-
 .cards{
 display:flex;
 justify-content:center;
@@ -52,7 +44,7 @@ box-shadow:0 8px 20px #ddd;
 max-width:260px;
 }
 
-.support{
+.story{
 padding:50px;
 }
 
