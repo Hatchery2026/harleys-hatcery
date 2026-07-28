@@ -1,10 +1,11 @@
-Harley's Hatchery Version 9.7 - Enterprise Hatchery Management & Advanced Platform Edition
+Harley's Hatchery Version 9.8 - Ultimate Automation & Intelligence Platform Edition
 
 Focus:
-- Full business command center
-- Advanced customer lifecycle tools
-- Enterprise reporting preparation
-- Complete automation ecosystem
+- AI-assisted business insights preparation
+- Advanced automation workflows
+- Predictive planning structure
+- Smarter customer systems
+- Platform intelligence layer
 
 Assets:
 images/logo.png
@@ -12,7 +13,7 @@ images/hero.jpg
 images/story.jpg
 
 Preparation:
-- Connect business systems
-- Add live operational data
-- Add user permissions
-- Connect analytics platforms
+- Connect analytics systems
+- Add operational data
+- Add automation tools
+- Connect customer platforms
