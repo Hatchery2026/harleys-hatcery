@@ -1,14 +1,17 @@
-Harley's Hatchery Inventory
+Inventory Template
 
 Breed:
-Availability:
-Hatch Date:
+Photo:
 Price:
-Quantity Available:
+Hatch Date:
+Available Quantity:
+Status:
+Reserve Link:
 
-Example:
-Silkie
-Coming Soon
-September 28th, 2026
-Add price
-Add quantity
+Initial breeds:
+- Silkies
+- Buff Orpingtons
+- Barred Rocks
+- Australorps
+- Easter Eggers
+- Rhode Island Reds

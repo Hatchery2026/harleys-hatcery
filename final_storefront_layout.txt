@@ -1,0 +1,25 @@
+Final Storefront Layout
+
+HOME:
+- Hero banner
+- Brand message
+- Featured breeds
+- Why choose Harley's Hatchery
+- Reserve chicks button
+
+STORE:
+- Product cards
+- Breed images
+- Descriptions
+- Pricing
+- Availability
+- Reserve buttons
+
+BREED CENTER:
+- Breed profiles
+- Personality
+- Care information
+- Egg production
+
+CUSTOMER ORDER FLOW:
+Browse -> Select Breed -> Reserve -> Confirmation

@@ -1,10 +1,16 @@
-Final Launch Checklist
+Launch Checklist
 
+Completed:
+✓ Website structure
+✓ Store planning
+✓ Breed planning
+✓ Reservation flow
+
+Final:
 □ Add logo
-□ Add photography
-□ Add products
+□ Add photos
 □ Add prices
 □ Add inventory
-□ Test reservations
+□ Connect order system
 □ Connect domain
 □ Publish website
