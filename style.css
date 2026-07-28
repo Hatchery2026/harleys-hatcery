@@ -15,27 +15,28 @@ nav{color:#806b95;font-weight:bold;}
 .hero{
 background:#f3e8ff;
 display:flex;
-align-items:center;
 justify-content:center;
+align-items:center;
 gap:70px;
 padding:90px 40px;
 }
 h1,h2{color:#806b95;}
 h1{font-size:70px;}
 span{color:#8aa06f;}
-.hero-image{
+.hero-photo{
 width:520px;
 height:420px;
 object-fit:cover;
 border-radius:45px;
 }
-.dates{
+.cards,.trust{
 display:flex;
-gap:20px;
 justify-content:center;
-margin:30px;
+gap:20px;
+flex-wrap:wrap;
+padding:35px;
 }
-.dates div,.trust div{
+.cards div,.trust div{
 background:white;
 padding:30px;
 border-radius:30px;
@@ -48,30 +49,18 @@ border:0;
 padding:18px 40px;
 border-radius:35px;
 }
-.story-image{
-width:400px;
-height:280px;
-object-fit:cover;
-border-radius:35px;
-}
 .gallery{
 display:flex;
 justify-content:center;
 gap:30px;
 padding:40px;
+flex-wrap:wrap;
 }
 .gallery img{
 width:360px;
 height:270px;
 object-fit:cover;
 border-radius:35px;
-}
-.trust{
-display:flex;
-justify-content:center;
-gap:20px;
-flex-wrap:wrap;
-padding:50px;
 }
 footer{
 background:#8aa06f;

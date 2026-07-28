@@ -1,24 +1,20 @@
-Harley's Hatchery Version 5.5 - Real Photo Brand Integration
+Harley's Hatchery Version 5.6 - Final Website Refinement
 
-Purpose:
-Final brand-focused build stage.
+Focus:
+- Homepage polish
+- Shop Chick improvements
+- Reservation flow refinement
+- Connected customer experience
 
-Add real assets:
+Add:
 images/logo.png
 images/hero.jpg
 images/chicks.jpg
 images/flock.jpg
-images/about.jpg
 
-Breed images:
-breed_images/silkie.jpg
-breed_images/rhode-island-red.jpg
-breed_images/australorp.jpg
-breed_images/buff-orpington.jpg
-breed_images/leghorn.jpg
-
-Final preparation:
-- Replace placeholders
-- Connect pages
-- Add reservation/contact forms
-- Final launch review
+Breed photos:
+breeds/silkie.jpg
+breeds/rhode-island-red.jpg
+breeds/australorp.jpg
+breeds/buff-orpington.jpg
+breeds/leghorn.jpg
