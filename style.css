@@ -1,40 +1,8 @@
-body{
-font-family:Georgia,serif;
-background:#fff8ed;
-color:#555;
-text-align:center;
-margin:0;
-}
-header{
-background:white;
-padding:25px;
-}
-nav a{
-margin:12px;
-color:#806b95;
-text-decoration:none;
-}
-.hero{
-padding:100px 20px;
-background:#f3e8ff;
-}
-.button{
-padding:12px 25px;
-background:#806b95;
-color:white;
-border-radius:20px;
-text-decoration:none;
-}
-.cards{
-display:flex;
-justify-content:center;
-gap:20px;
-flex-wrap:wrap;
-padding:40px;
-}
-.cards div{
-background:white;
-padding:25px;
-border-radius:20px;
-width:250px;
-}
+body{font-family:Georgia,serif;background:#fff8ed;color:#555;text-align:center;margin:0}
+header{background:white;padding:25px}
+nav a{margin:10px;color:#806b95;text-decoration:none}
+.hero{padding:100px 20px;background:#f3e8ff}
+.button,button{background:#806b95;color:white;padding:12px 25px;border-radius:20px;text-decoration:none;border:0}
+.cards{display:flex;justify-content:center;gap:20px;flex-wrap:wrap;padding:40px}
+.card,.cards div{background:white;padding:25px;border-radius:20px;margin:20px}
+input,textarea{width:250px;padding:8px;margin:8px}

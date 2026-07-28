@@ -1,0 +1,18 @@
+Harley's Hatchery Launch Checklist
+
+Completed:
+✓ Customer website pages
+✓ Store structure
+✓ Breed section
+✓ Care section
+✓ Reservation form
+✓ Styling
+
+Before going live:
+□ Add logo
+□ Add real photos
+□ Connect email notifications
+□ Add payment system
+□ Connect domain
+□ Deploy hosting
+□ Test orders
