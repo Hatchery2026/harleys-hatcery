@@ -1,15 +1,16 @@
-Harley's Hatchery Storefront Build v4
+Harley's Hatchery Storefront Build v5
 
 Upgraded:
-✓ More professional layout
-✓ Stronger brand presentation
+✓ Homepage polish
+✓ Featured breeds
 ✓ Store cards
-✓ Breed cards
-✓ Reservation flow
+✓ Breed pages
+✓ Reservation form
 
 Next:
-- Replace photo placeholders
-- Add logo image
-- Add pricing
+- Add real logo
+- Add real photos
+- Add prices
 - Add inventory
-- Connect checkout
+- Connect payments
+- Launch
