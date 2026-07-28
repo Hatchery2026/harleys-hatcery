@@ -1,15 +1,15 @@
-Harley's Hatchery Version 11.7 - Advanced Analytics, Business Intelligence & Performance Dashboard Edition
+Harley's Hatchery Version 11.8 - Advanced Operations Management & Hatchery Control Center Edition
 
 Focus:
-- Sales analytics
-- Customer insights
-- Inventory reporting
-- Hatch performance tracking
-- Growth dashboards
+- Daily hatchery operations
+- Inventory control
+- Order management
+- Production scheduling
+- Staff/workflow organization
 
 Preparation:
-- Connect live business data
-- Add analytics tools
-- Add inventory tracking
-- Connect customer database
-- Build reporting workflows
+- Connect live inventory
+- Add hatch schedules
+- Add order database
+- Add team permissions
+- Connect operational tools
