@@ -1,0 +1,9 @@
+Next Website Build Steps:
+
+1. Add real breed photos
+2. Add official Harley's Hatchery logo
+3. Add prices
+4. Add inventory counts
+5. Connect reservation forms
+6. Connect payment/order system
+7. Launch website

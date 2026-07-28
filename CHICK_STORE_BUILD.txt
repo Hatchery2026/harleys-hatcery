@@ -1,0 +1,21 @@
+Harley's Hatchery Chick Store Build
+
+Customer Store Features:
+
+- Breed cards
+- Chick availability
+- Hatch date information
+- Pricing area
+- Quantity selector
+- Reserve chicks button
+
+Featured breed examples:
+- Silkies
+- Buff Orpingtons
+- Barred Rocks
+- Australorps
+- Easter Eggers
+- Rhode Island Reds
+
+Maximum order quantity:
+12 chicks

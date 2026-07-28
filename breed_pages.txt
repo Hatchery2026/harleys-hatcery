@@ -1,0 +1,20 @@
+Harley's Hatchery Breed Pages
+
+Each breed page includes:
+
+- Breed name
+- Photo area
+- Description
+- Personality
+- Egg production information
+- Care notes
+- Availability
+- Reserve button
+
+Example:
+
+Silkie Chick
+Friendly, fluffy, and a great backyard flock addition.
+
+Status:
+Coming Soon
