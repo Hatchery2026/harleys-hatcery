@@ -1,0 +1,15 @@
+Harley's Hatchery Brand Integration
+
+Sections:
+- Logo placement
+- Header branding
+- Footer branding
+- Button styling
+- Image areas
+- Breed cards
+
+Assets needed:
+- Official logo
+- Brand colors
+- Chick photos
+- Breed photos
