@@ -1,8 +1,2 @@
-Harley's Hatchery Version 3.8 Shop Chicks
-
-Add:
-- logo.png
-- shop-hero.jpg
-- breed photos in images/breeds/
-
-This page is designed to match the approved homepage style.
+Harley's Hatchery Version 3.9 - Reserve Your Chicks page
+Add logo.png to images folder.
