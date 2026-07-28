@@ -1,11 +1,17 @@
-Harley's Hatchery Version 18.5 - Advanced Customer Education, Poultry Academy & Knowledge Ecosystem Edition
+Harley's Hatchery Version 18.6 - Community Network, Flock Owner Social Platform & Customer Connection Ecosystem Edition
 
 Next Generation Evolution:
-Building an education and knowledge platform for flock owners.
+Building a connected community around flock owners.
 
 Focus:
-- Online poultry academy
-- Customer learning paths
-- Expert training content
-- Certification programs
-- Knowledge marketplace
+- Customer communities
+- Flock owner networking
+- Expert communities
+- Local groups
+- Social engagement systems
+
+Preparation:
+- Build community spaces
+- Connect customer profiles
+- Create engagement workflows
+- Support knowledge sharing
