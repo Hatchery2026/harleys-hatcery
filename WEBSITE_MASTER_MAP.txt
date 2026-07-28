@@ -4,10 +4,11 @@ HOME
 - Welcome
 - Brand story
 - Opening announcement
+- Featured breeds
 
 STORE
 - Chick listings
-- Breed availability
+- Availability
 - Maximum order quantity: 12 chicks
 
 BREEDS
