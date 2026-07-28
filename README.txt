@@ -1,11 +1,13 @@
-Harley's Hatchery Version 6.6 - Final Launch Release Candidate
+Harley's Hatchery Version 7.0 - Official Launch Edition
 
-Final release candidate preparation.
+Final launch foundation.
 
 Includes:
-- Final homepage structure
-- Brand consistency
+- Homepage
+- Brand presentation
 - Customer journey
+- Trust sections
+- Photo placement
 - Launch checklist
 
 Add final assets:
@@ -15,8 +17,15 @@ images/story.jpg
 images/chicks.jpg
 images/flock.jpg
 
-Before publishing:
-- Add final photos
-- Connect reservation forms
+Breed images:
+breeds/silkie.jpg
+breeds/rhode-island-red.jpg
+breeds/australorp.jpg
+breeds/buff-orpington.jpg
+breeds/leghorn.jpg
+
+Final launch:
+- Connect forms
 - Connect domain
-- Test all pages and mobile layout
+- Add final availability
+- Publish website
