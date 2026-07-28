@@ -1,15 +1,14 @@
-Harley's Hatchery Version 11.2 - Advanced Storefront, Inventory & Reservation System Edition
+Harley's Hatchery Version 11.3 - Advanced Customer Accounts & Personalized Hatchery Experience Edition
 
 Focus:
-- Live-looking chick listings
-- Availability cards
-- Hatch date displays
-- Inventory organization
-- Improved reservation experience
+- Customer profiles
+- Reservation history
+- Saved breeds
+- Personalized recommendations
+- Customer dashboard
 
 Preparation:
-- Add real inventory data
-- Add pricing
-- Connect reservation tools
-- Add hatch schedules
-- Connect payment systems
+- Connect customer database
+- Add account login
+- Connect reservations
+- Add customer communication tools
