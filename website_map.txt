@@ -1,0 +1,27 @@
+Harley's Hatchery Website Map
+
+HOME
+- Welcome
+- Opening announcement
+- Featured breeds
+
+STORE
+- Chick listings
+- Availability
+- Quantity limit: 12 chicks
+
+BREEDS
+- Breed profiles
+- Traits
+- Care information
+
+EDUCATION
+- Chick care
+- Raising guides
+
+ABOUT
+- Story
+- Mission
+
+CONTACT
+- Customer support
