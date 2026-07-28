@@ -1,26 +1,18 @@
-Harley's Hatchery Version 7.6 - Advanced Brand & Customer Platform
+Harley's Hatchery Version 7.7 - Complete Customer Portal & Marketing Upgrade
 
 Focus:
-- Customer communication improvements
-- Enhanced breed information structure
-- Reservation management preparation
-- Stronger brand experience
+- Customer announcements
+- Testimonials/reviews section
+- Stronger marketing presentation
+- Improved customer conversion flow
 
 Assets:
 images/logo.png
 images/hero.jpg
 images/story.jpg
-images/chicks.jpg
-images/flock.jpg
-
-Breed assets:
-breeds/silkie.jpg
-breeds/rhode-island-red.jpg
-breeds/australorp.jpg
-breeds/buff-orpington.jpg
-breeds/leghorn.jpg
+images/customer.jpg
 
 Next:
-- Connect live customer tools
-- Add real inventory
+- Add live reviews
+- Connect newsletter/email tools
 - Final launch polish
