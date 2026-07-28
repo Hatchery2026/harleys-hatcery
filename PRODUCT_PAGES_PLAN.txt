@@ -1,0 +1,41 @@
+Harley's Hatchery Product Pages Complete Build
+
+This combines the Chick Store and Breed Pages into a customer shopping structure.
+
+Included:
+
+CHICK STORE
+- Product cards
+- Breed selection
+- Availability display
+- Hatch date area
+- Pricing area
+- Reserve button
+
+BREED PRODUCTS
+- Silkies
+- Buff Orpingtons
+- Barred Rocks
+- Australorps
+- Easter Eggers
+- Rhode Island Reds
+
+PRODUCT PAGE INFORMATION
+- Breed name
+- Photo area
+- Description
+- Personality
+- Care information
+- Egg production
+- Availability
+- Quantity selection
+- Reservation action
+
+Order Limit:
+Maximum 12 chicks
+
+Next:
+- Add real photos
+- Add real prices
+- Add inventory
+- Connect checkout
