@@ -1,8 +1,8 @@
-Harley's Hatchery Version 4.4 Final Website Polish
+Harley's Hatchery Version 4.5 Launch Ready
 
-This package combines the final website structure.
+Final assembly package.
 
-Included:
+Included structure:
 - Home
 - Shop Chicks
 - Reserve
@@ -11,8 +11,16 @@ Included:
 - Gallery
 - Contact
 
-Final steps:
-1. Add official logo to images/logo.png
-2. Add personal hatchery photos
-3. Add professional breed photos
-4. Connect forms and hosting
+Replace image placeholders:
+images/logo.png
+images/hero.jpg
+images/chicks1.jpg
+images/chicks2.jpg
+images/flock.jpg
+
+Add professional breed images for Shop Chicks.
+
+Final launch steps:
+- Connect forms
+- Add hosting/domain
+- Review mobile layout
