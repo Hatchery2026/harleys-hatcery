@@ -12,7 +12,9 @@ padding:35px;
 border-bottom:4px solid #dce8d2;
 }
 
-.logo{width:240px;}
+.logo{
+width:240px;
+}
 
 .tagline,h1,h2{
 color:#806b95;
@@ -32,8 +34,13 @@ align-items:center;
 gap:70px;
 }
 
-h1{font-size:62px;}
-span{color:#8aa06f;}
+h1{
+font-size:62px;
+}
+
+span{
+color:#8aa06f;
+}
 
 .hero-image{
 width:520px;

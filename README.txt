@@ -1,13 +1,12 @@
-Harley's Hatchery Version 6.5 - Final Pre Launch Review
+Harley's Hatchery Version 6.6 - Final Launch Release Candidate
 
-Purpose:
-Final quality review before release candidate.
+Final release candidate preparation.
 
-Focus:
-- Homepage polish
-- Customer journey
-- Mobile-friendly structure
+Includes:
+- Final homepage structure
 - Brand consistency
+- Customer journey
+- Launch checklist
 
 Add final assets:
 images/logo.png
@@ -16,9 +15,8 @@ images/story.jpg
 images/chicks.jpg
 images/flock.jpg
 
-Final checks:
-- Add real photos
-- Connect forms
-- Verify all links
-- Test mobile
-- Prepare launch
+Before publishing:
+- Add final photos
+- Connect reservation forms
+- Connect domain
+- Test all pages and mobile layout
