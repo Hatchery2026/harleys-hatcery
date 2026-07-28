@@ -1,0 +1,13 @@
+FINAL GO LIVE CHECKLIST
+
+[ ] Logo added
+[ ] Photos added
+[ ] Breed information completed
+[ ] Prices entered
+[ ] Inventory entered
+[ ] Order system connected
+[ ] Email notifications tested
+[ ] Domain connected
+[ ] Hosting connected
+[ ] Mobile tested
+[ ] Website published

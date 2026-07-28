@@ -1,0 +1,29 @@
+WEBSITE MAP
+
+HOME
+- Hero section
+- Brand message
+- Featured breeds
+- Reserve chicks button
+
+CHICK STORE
+- Product cards
+- Breed listings
+- Availability
+- Pricing
+- Reserve buttons
+
+BREED CENTER
+- Breed descriptions
+- Personality
+- Care information
+
+CHICK CARE
+- Brooding
+- Feeding
+- Housing
+- General resources
+
+CONTACT
+- Customer support
+- Questions
