@@ -1,0 +1,20 @@
+Product Database Template
+
+Breed:
+Image:
+Description:
+Personality:
+Care:
+Price:
+Hatch Date:
+Inventory:
+Availability:
+Order Limit:
+
+Initial breeds:
+Silkies
+Buff Orpingtons
+Barred Rocks
+Australorps
+Easter Eggers
+Rhode Island Reds

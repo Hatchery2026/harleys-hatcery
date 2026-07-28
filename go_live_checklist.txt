@@ -1,0 +1,17 @@
+Go Live Checklist
+
+Complete:
+✓ Website structure
+✓ Store structure
+✓ Breed structure
+✓ Customer flow
+
+Remaining:
+□ Logo
+□ Photos
+□ Prices
+□ Inventory
+□ Order system
+□ Domain
+□ Hosting
+□ Launch

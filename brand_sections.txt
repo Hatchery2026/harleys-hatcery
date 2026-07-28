@@ -1,0 +1,18 @@
+Brand Sections
+
+Homepage:
+- Harley's Hatchery identity
+- Quality Chicks. Raised With Care.
+- Featured breeds
+- Customer trust section
+- Reserve chicks button
+
+Store:
+- Product cards
+- Breed photos
+- Product details
+- Availability
+- Reserve action
+
+Customer journey:
+Visit -> Browse -> Choose Breed -> Reserve -> Confirmation
