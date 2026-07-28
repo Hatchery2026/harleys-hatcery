@@ -1,15 +1,16 @@
-Harley's Hatchery Version 7.3 - Professional Business Upgrade
+Harley's Hatchery Version 7.4 - Premium Hatchery Experience
 
 Focus:
-- Professional breed pages
-- Improved shop experience
-- Customer communication
-- Business-ready structure
+- Premium customer presentation
+- Enhanced breed showcase
+- Customer confidence features
+- More polished storefront feel
 
 Assets:
 images/logo.png
 images/hero.jpg
 images/story.jpg
+images/gallery.jpg
 
 Breed images:
 breeds/silkie.jpg
@@ -20,5 +21,5 @@ breeds/leghorn.jpg
 
 Next:
 - Add live inventory
-- Connect customer forms
-- Add final branding assets
+- Add final forms
+- Complete launch polish
