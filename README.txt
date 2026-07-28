@@ -1,27 +1,18 @@
-Harley's Hatchery Version 8.5 - Advanced Hatchery Management & Premium Experience
+Harley's Hatchery Version 8.6 - Complete Hatchery Operations Dashboard Edition
 
 Focus:
-- Hatchery operations structure
-- Availability management
-- Premium customer experience
-- Stronger business organization
+- Owner/admin dashboard structure
+- Customer order tracking
+- Business reporting preparation
+- Operations overview
 
 Assets:
 images/logo.png
 images/hero.jpg
 images/story.jpg
-images/chicks.jpg
-images/flock.jpg
-
-Breed images:
-breeds/silkie.jpg
-breeds/rhode-island-red.jpg
-breeds/australorp.jpg
-breeds/buff-orpington.jpg
-breeds/leghorn.jpg
 
 Preparation:
-- Add live inventory
-- Connect reservation system
-- Add customer notifications
-- Add management tools
+- Connect database/tools
+- Add live reservations
+- Add reporting data
+- Add admin access
