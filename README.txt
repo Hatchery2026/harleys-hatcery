@@ -1,16 +1,15 @@
-Harley's Hatchery Version 6.1 - Real Launch Integration
+Harley's Hatchery Version 6.2 - Final Customer Experience Build
 
-Focus:
-- Real brand integration
-- Customer-ready structure
-- Photo replacement points
-- Breed showcase preparation
-- Reservation flow preparation
+Includes:
+- Shop Chicks experience structure
+- Breed showcase areas
+- Reservation flow structure
+- Chick care sections
+- Customer journey improvements
 
-Add final assets:
+Add:
 images/logo.png
 images/hero.jpg
-images/story.jpg
 images/chicks.jpg
 images/flock.jpg
 
@@ -20,9 +19,3 @@ breeds/rhode-island-red.jpg
 breeds/australorp.jpg
 breeds/buff-orpington.jpg
 breeds/leghorn.jpg
-
-Launch tasks:
-- Connect forms
-- Add real availability
-- Add hosting/domain
-- Final testing
