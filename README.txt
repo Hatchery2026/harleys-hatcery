@@ -1,21 +1,25 @@
-Harley's Hatchery Version 9.1 - Real World Launch & Business Activation Edition
+Harley's Hatchery Version 9.2 - Live Storefront & Customer Conversion Edition
 
 Focus:
-- Real-world launch preparation
-- Customer workflow activation
-- Live business content structure
-- Launch operations
+- Customer shopping experience
+- Breed sales pages
+- Reservation conversion improvements
+- Customer checkout flow preparation
 
 Assets:
 images/logo.png
 images/hero.jpg
-images/story.jpg
 images/chicks.jpg
-images/flock.jpg
 
-Launch preparation:
-- Add real inventory
-- Connect reservation forms
-- Add customer contact tools
-- Connect domain and hosting
-- Publish website
+Breed images:
+breeds/silkie.jpg
+breeds/rhode-island-red.jpg
+breeds/australorp.jpg
+breeds/buff-orpington.jpg
+breeds/leghorn.jpg
+
+Preparation:
+- Connect payment/reservation tools
+- Add live availability
+- Add pricing
+- Add customer forms
