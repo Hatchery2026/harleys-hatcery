@@ -1,11 +1,11 @@
-Harley's Hatchery Version 22.2 - Full Homepage Design System, Brand Experience & Customer Journey Architecture Edition
+Harley's Hatchery Version 22.3 - Product Marketplace Build, Chick Catalog System & Online Store Experience Edition
 
 New Millennium Era:
-Building the complete visual and experience framework for the customer-facing website.
+Building the customer shopping and product discovery experience.
 
 Focus:
-- Complete homepage layout
-- Hero section
-- Brand storytelling
-- Customer journey flow
-- Website design system
+- Product pages
+- Chick catalog
+- Store layout
+- Ordering experience
+- Customer shopping journey
