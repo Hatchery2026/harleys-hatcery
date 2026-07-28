@@ -14,7 +14,7 @@ border-bottom:4px solid #dce8d2;
 
 .logo{width:180px;}
 
-h1,h2,h3{
+h1,h2{
 color:#806b95;
 }
 
@@ -28,39 +28,29 @@ background:#f5ecff;
 padding:60px;
 }
 
-.story{
-padding:40px;
-}
-
-.story-image{
-width:400px;
-height:300px;
-object-fit:cover;
-border-radius:35px;
-}
-
-.card,.cards div,.quote{
-background:white;
-padding:30px;
-border-radius:30px;
-box-shadow:0 8px 20px #ddd;
-margin:20px auto;
-max-width:500px;
-}
-
-.cards{
+.gallery{
 display:flex;
 justify-content:center;
-gap:20px;
+gap:25px;
 flex-wrap:wrap;
+padding:30px;
 }
 
-.cards div{
-width:180px;
+.gallery img{
+width:280px;
+height:220px;
+object-fit:cover;
+border-radius:30px;
+box-shadow:0 8px 20px #ddd;
 }
 
 .quote{
-background:#f5ecff;
+background:white;
+width:60%;
+margin:40px auto;
+padding:30px;
+border-radius:30px;
+box-shadow:0 8px 20px #ddd;
 }
 
 footer{

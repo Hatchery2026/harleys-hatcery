@@ -1,2 +1,2 @@
-Harley's Hatchery Version 4.1 - About Page
-Add logo.png and hatchery-story.jpg to images folder.
+Harley's Hatchery Version 4.2 - Gallery Page
+Add logo.png and gallery photos to images folder.
