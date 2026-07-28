@@ -1,0 +1,13 @@
+Breed Inventory System
+
+Features:
+- Breed name
+- Availability status
+- Hatch date
+- Quantity available
+- Order limits
+
+Example:
+Breed: Silkie
+Status: Coming Soon
+Maximum order quantity: 12 chicks

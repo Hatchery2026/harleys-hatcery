@@ -1,0 +1,13 @@
+Order Form Structure
+
+Customer Information:
+- Name
+- Email
+- Phone
+- Pickup/shipping preference
+
+Order Information:
+- Breed selection
+- Quantity
+- Preferred hatch date
+- Additional notes

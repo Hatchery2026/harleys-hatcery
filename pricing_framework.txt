@@ -1,0 +1,10 @@
+Pricing Framework
+
+Each breed listing can include:
+- Breed price
+- Quantity selector
+- Availability
+- Order total
+- Customer notes
+
+Pricing can be updated as inventory changes.
