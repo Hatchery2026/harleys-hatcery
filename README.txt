@@ -1,20 +1,29 @@
-Harley's Hatchery Version 10.3 - Premium Marketing Automation & Customer Conversion Engine
+Harley's Hatchery Version 10.4 - Full Website Transformation Edition
 
 Focus:
-- Automated marketing journeys
-- Customer conversion optimization
-- Campaign tracking
-- Customer follow-up systems
-- Advanced growth tools
+- Visible front-end transformation
+- New homepage experience
+- Breed showcase structure
+- Reservation experience
+- Customer-focused design
+
+This version begins converting the platform foundation into a customer-facing website.
 
 Assets:
 images/logo.png
 images/hero.jpg
 images/story.jpg
+images/chicks.jpg
+images/flock.jpg
 
-Preparation:
-- Connect email systems
-- Add customer segments
-- Track campaigns
-- Connect analytics
-- Build automated workflows
+Breed pages:
+breeds/silkie.html
+breeds/rhode-island-red.html
+breeds/australorp.html
+breeds/buff-orpington.html
+breeds/leghorn.html
+
+Next:
+- Add real photos
+- Add live inventory
+- Connect reservation forms
