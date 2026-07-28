@@ -22,7 +22,7 @@ h1,h2{
 color:#806b95;
 }
 
-.cards{
+.dashboard{
 display:flex;
 justify-content:center;
 gap:25px;
@@ -30,12 +30,17 @@ flex-wrap:wrap;
 padding:50px;
 }
 
-.cards div{
+.dashboard div,.tools{
 background:white;
 padding:35px;
 border-radius:30px;
 max-width:260px;
 box-shadow:0 8px 20px #ddd;
+}
+
+.tools{
+margin:20px auto;
+max-width:500px;
 }
 
 footer{
