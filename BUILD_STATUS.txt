@@ -1,20 +1,20 @@
-Harley's Hatchery Storefront Build v16
+Harley's Hatchery Storefront Build v17
 
 Focus:
-Closer to a finished customer website.
+Polished storefront preparation.
 
 Included:
-- Homepage final structure
-- Storefront organization
+- Customer homepage structure
 - Breed showcase
-- Product listing framework
+- Chick store framework
+- Product card system
 - Reservation workflow
-- Customer journey
+- Launch organization
 
-Ready for:
-- Logo replacement
+Prepared for final live build:
+- Official logo
 - Real chick photos
-- Real pricing
+- Pricing
 - Inventory
-- Checkout/order connection
-- Hosting launch
+- Checkout
+- Domain deployment
