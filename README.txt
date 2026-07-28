@@ -1,26 +1,20 @@
-Harley's Hatchery Version 4.5 Launch Ready
+Harley's Hatchery Version 4.6 - Visual Transformation
 
-Final assembly package.
+This version focuses on making the website LOOK different.
 
-Included structure:
-- Home
-- Shop Chicks
-- Reserve
-- Chick Care
-- About
-- Gallery
-- Contact
+Updates:
+- Larger hero layout
+- Premium farmhouse styling
+- Dedicated photo sections
+- Stronger brand presentation
+- Real photo/logo replacement points
 
-Replace image placeholders:
+Replace:
 images/logo.png
 images/hero.jpg
-images/chicks1.jpg
-images/chicks2.jpg
+images/chicks-1.jpg
+images/chicks-2.jpg
 images/flock.jpg
 
-Add professional breed images for Shop Chicks.
-
-Final launch steps:
-- Connect forms
-- Add hosting/domain
-- Review mobile layout
+Next step:
+Insert final personal photos and breed photography.
