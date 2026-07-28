@@ -1,15 +1,15 @@
-Harley's Hatchery Version 12.6 - Advanced Community Platform & Social Flock Network Edition
+Harley's Hatchery Version 12.7 - Advanced Breeding Management, Genetics & Hatch Planning System Edition
 
 Focus:
-- Customer community
-- Flock photo sharing
-- Breed discussions
-- Community events
-- Customer engagement system
+- Breeding records
+- Genetics tracking
+- Hatch planning
+- Pair management
+- Future flock development
 
 Preparation:
-- Add customer profiles
-- Connect photo uploads
-- Add moderation tools
-- Add community notifications
-- Connect mobile experience
+- Add flock database
+- Add breeding records
+- Connect hatch scheduling
+- Add genetics information
+- Add production tracking
