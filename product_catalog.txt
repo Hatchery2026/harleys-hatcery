@@ -1,0 +1,28 @@
+Harley's Hatchery Product Catalog Framework
+
+Silkie Chicks
+Photo:
+Description:
+Price:
+Availability:
+Hatch Date:
+Quantity Available:
+
+Buff Orpington Chicks
+Photo:
+Description:
+Price:
+Availability:
+Hatch Date:
+Quantity Available:
+
+Barred Rock Chicks
+Photo:
+Description:
+Price:
+Availability:
+Hatch Date:
+Quantity Available:
+
+Order Limit:
+12 chicks
