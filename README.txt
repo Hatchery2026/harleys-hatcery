@@ -1,14 +1,15 @@
-Harley's Hatchery Version 11.3 - Advanced Customer Accounts & Personalized Hatchery Experience Edition
+Harley's Hatchery Version 11.4 - Advanced Care Center & Customer Education Experience Edition
 
 Focus:
-- Customer profiles
-- Reservation history
-- Saved breeds
-- Personalized recommendations
-- Customer dashboard
+- Chick care library
+- Breed education pages
+- New owner guides
+- Feeding and setup resources
+- Customer support experience
 
 Preparation:
-- Connect customer database
-- Add account login
-- Connect reservations
-- Add customer communication tools
+- Add real care articles
+- Add videos
+- Add downloadable guides
+- Connect customer accounts
+- Add support tools
