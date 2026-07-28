@@ -1,21 +1,20 @@
-Harley's Hatchery Version 10.2 - Advanced Sales, Customer Acquisition & Revenue Growth Edition
+Harley's Hatchery Version 10.3 - Premium Marketing Automation & Customer Conversion Engine
 
 Focus:
-- Sales optimization
-- Customer conversion improvements
-- Promotion systems
-- Revenue tracking
-- Growth strategies
+- Automated marketing journeys
+- Customer conversion optimization
+- Campaign tracking
+- Customer follow-up systems
+- Advanced growth tools
 
 Assets:
 images/logo.png
 images/hero.jpg
 images/story.jpg
-images/chicks.jpg
 
 Preparation:
-- Add real pricing
-- Connect sales tracking
-- Add promotions
-- Connect customer analytics
-- Track revenue goals
+- Connect email systems
+- Add customer segments
+- Track campaigns
+- Connect analytics
+- Build automated workflows
