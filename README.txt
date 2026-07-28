@@ -1,15 +1,15 @@
-Harley's Hatchery Version 11.1 - Professional Website Polish & Real Business Launch Edition
+Harley's Hatchery Version 11.2 - Advanced Storefront, Inventory & Reservation System Edition
 
 Focus:
-- Professional website styling
-- Improved customer presentation
-- Stronger calls-to-action
-- Mobile-friendly structure preparation
-- Launch-ready customer experience
+- Live-looking chick listings
+- Availability cards
+- Hatch date displays
+- Inventory organization
+- Improved reservation experience
 
 Preparation:
-- Add professional photography
-- Connect reservation systems
-- Add live inventory
-- Add customer testimonials
-- Publish website
+- Add real inventory data
+- Add pricing
+- Connect reservation tools
+- Add hatch schedules
+- Connect payment systems
