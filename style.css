@@ -5,54 +5,52 @@ font-family:Georgia,serif;
 color:#555;
 text-align:center;
 }
-
 header{
 background:white;
 padding:30px;
 border-bottom:4px solid #dce8d2;
 }
-
 .logo{width:180px;}
-
-h1,h2{
-color:#806b95;
-}
-
-nav{
-color:#806b95;
-font-weight:bold;
-}
-
+h1,h2{color:#806b95;}
+nav{color:#806b95;font-weight:bold;}
 .hero{
 background:#f5ecff;
 padding:60px;
 }
-
-.gallery{
+.cards{
 display:flex;
 justify-content:center;
-gap:25px;
 flex-wrap:wrap;
-padding:30px;
+gap:25px;
+padding:40px;
 }
-
-.gallery img{
-width:280px;
-height:220px;
-object-fit:cover;
-border-radius:30px;
-box-shadow:0 8px 20px #ddd;
-}
-
-.quote{
+.card,.form-card{
 background:white;
-width:60%;
-margin:40px auto;
 padding:30px;
 border-radius:30px;
 box-shadow:0 8px 20px #ddd;
 }
-
+.card{width:260px;}
+.form-card{
+width:60%;
+margin:auto;
+}
+input,textarea{
+display:block;
+width:80%;
+margin:15px auto;
+padding:14px;
+border-radius:15px;
+border:1px solid #ddd;
+}
+textarea{height:100px;}
+button{
+background:#b9a7d8;
+color:white;
+border:0;
+padding:15px 30px;
+border-radius:30px;
+}
 footer{
 background:#8aa06f;
 color:white;
