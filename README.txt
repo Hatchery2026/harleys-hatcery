@@ -1,11 +1,10 @@
-Harley's Hatchery Version 8.2 - Marketing, Community & Customer Engagement Edition
+Harley's Hatchery Version 8.3 - Advanced Brand Experience & Customer Loyalty Edition
 
 Focus:
-- Social media integration preparation
-- Newsletter structure
-- Customer loyalty features
-- Brand storytelling
-- Community growth
+- Customer loyalty experience
+- Premium brand presentation
+- Community engagement
+- Repeat customer connection
 
 Assets:
 images/logo.png
@@ -14,7 +13,7 @@ images/story.jpg
 images/customers.jpg
 
 Preparation:
-- Connect social links
-- Connect email platform
+- Add loyalty program details
+- Connect customer accounts/tools
 - Add real customer stories
-- Add community updates
+- Add social links
