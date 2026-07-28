@@ -1,28 +1,16 @@
-Harley's Hatchery Version 5.3 - Full Page Integration
+Harley's Hatchery Version 5.4 - Final Visual Match
 
-Integrated website structure:
-- Home
-- Shop Chicks
-- Reserve
-- Chick Care
-- About
-- Gallery
-- Contact
+Focus:
+- Homepage closer to approved template style
+- Stronger visual hierarchy
+- Larger photography areas
+- Premium farmhouse presentation
 
-Brand assets:
+Add:
 images/logo.png
 images/hero.jpg
 images/chicks.jpg
 images/flock.jpg
 
-Breed assets:
-breeds/silkie.jpg
-breeds/rhode-island-red.jpg
-breeds/australorp.jpg
-breeds/buff-orpington.jpg
-breeds/leghorn.jpg
-
-Final preparation:
-- Insert real photos
-- Connect navigation
-- Connect forms
+Next:
+Final real asset placement and launch polish.

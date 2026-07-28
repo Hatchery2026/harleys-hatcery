@@ -6,33 +6,66 @@ color:#555;
 text-align:center;
 }
 header{
-background:white;
+background:#fff;
 padding:30px;
 border-bottom:4px solid #dce8d2;
 }
-.logo{width:230px;}
-nav{
-color:#806b95;
-font-weight:bold;
-}
+.logo{width:240px;}
+nav{color:#806b95;font-weight:bold;}
 .hero{
 background:#f3e8ff;
-padding:80px 30px;
-}
-h1,h2{color:#806b95;}
-.content{
+padding:90px 40px;
 display:flex;
 justify-content:center;
-gap:25px;
-flex-wrap:wrap;
-padding:50px;
+align-items:center;
+gap:70px;
 }
-.card{
-background:white;
-padding:35px;
+h1{font-size:70px;color:#806b95;}
+span{color:#8aa06f;}
+.hero-image{
+width:520px;
+height:420px;
+object-fit:cover;
+border-radius:45px;
+}
+.dates{
+display:flex;
+gap:20px;
+justify-content:center;
+margin:30px;
+}
+.dates div,.trust div{
+background:#fff;
+padding:30px;
 border-radius:30px;
 box-shadow:0 8px 20px #ddd;
-max-width:350px;
+}
+button{
+background:#b9a7d8;
+color:white;
+border:0;
+padding:18px 40px;
+border-radius:35px;
+}
+.gallery{
+display:flex;
+justify-content:center;
+gap:30px;
+padding:40px;
+flex-wrap:wrap;
+}
+.gallery img{
+width:360px;
+height:270px;
+object-fit:cover;
+border-radius:35px;
+}
+.trust{
+display:flex;
+justify-content:center;
+gap:20px;
+flex-wrap:wrap;
+padding:50px;
 }
 footer{
 background:#8aa06f;
