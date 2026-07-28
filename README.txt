@@ -1,15 +1,15 @@
-Harley's Hatchery Version 12.1 - Real Website Deployment & Production Build Edition
+Harley's Hatchery Version 12.2 - Live Storefront, Real Inventory & Customer Booking Experience Edition
 
 Focus:
-- Production website structure
-- Real customer-facing launch preparation
-- Image and content placement
-- Chick listing preparation
-- Reservation connection planning
+- Real chick listing layouts
+- Availability calendar
+- Reservation forms
+- Customer booking flow
+- Breed shopping experience
 
 Preparation:
-- Add final photography
-- Add real chick inventory
-- Connect reservation/payment systems
-- Connect domain and hosting
-- Add analytics
+- Add live inventory
+- Add pricing
+- Connect payment processing
+- Connect reservation database
+- Add real hatch schedules
