@@ -1,18 +1,20 @@
-Harley's Hatchery Version 7.8 - Advanced Reservation & Customer Management Upgrade
+Harley's Hatchery Version 7.9 - Complete Business Automation & Launch Polish
 
 Focus:
-- Stronger reservation tools
-- Customer tracking structure
-- Order communication preparation
-- Business automation foundation
+- Customer communication workflow
+- Reservation follow-up structure
+- Business organization
+- Final launch polish preparation
 
 Assets:
 images/logo.png
 images/hero.jpg
 images/story.jpg
+images/chicks.jpg
+images/flock.jpg
 
-Next:
-- Connect live forms
-- Add payment options if desired
-- Add automated customer emails
-- Final platform polish
+Preparation:
+- Connect email tools
+- Connect reservation forms
+- Add live availability
+- Complete final launch review
