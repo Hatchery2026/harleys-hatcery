@@ -1,26 +1,40 @@
-Harley's Hatchery Complete Master Launch Build
+Harley's Hatchery Storefront Build v8 - Rebuilt
 
-This package combines the full website preparation vision into one organized build.
+This rebuilt package includes the storefront structure:
 
-Included:
-- Brand foundation
-- Website structure
-- Customer pages
-- Store planning
-- Breed center planning
-- Education center
-- Contact system
-- Launch checklist
-- Future expansion notes
+Website:
+- Professional homepage layout
+- Breed showcase
+- Customer trust sections
+- Chick store organization
+- Reservation workflow
 
-Opening Date:
-September 28th, 2026
+Store Products:
+- Silkies
+- Buff Orpingtons
+- Barred Rocks
+- Australorps
+- Easter Eggers
+- Rhode Island Reds
 
-Final steps:
-1. Add logo
-2. Add official colors
-3. Add breed photos
-4. Add pricing and inventory
-5. Add ordering system
-6. Connect hosting and domain
-7. Launch website
+Product information fields:
+- Breed photo
+- Breed name
+- Description
+- Price
+- Hatch date
+- Availability
+- Quantity
+- Reserve button
+
+Brand placeholders:
+- Logo
+- Hero image
+- Breed photos
+- Farm gallery
+
+Next:
+- Add real assets
+- Add inventory
+- Add pricing
+- Connect ordering/payment
