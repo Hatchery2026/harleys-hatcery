@@ -1,5 +1,5 @@
-Harley's Hatchery 30.0_Next_Generation_Hatchery_Platform
+Harley's Hatchery 31.0_Future_Hatchery_AI_Platform
 
-The next major platform evolution combining AI, flock intelligence, marketplace, and operations.
+Next generation hatchery platform architecture combining AI, customers, flocks, and operations.
 
-Part of the complete Version 30 collection.
+Part of the complete Version 31 collection.
