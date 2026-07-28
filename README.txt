@@ -1,11 +1,11 @@
-Harley's Hatchery Version 22.8 - Mobile App Experience, Customer Notifications & On-the-Go Hatchery Platform Edition
+Harley's Hatchery Version 22.9 - Payment Systems, Subscription Plans & Complete Online Business Infrastructure Edition
 
 New Millennium Era:
-Expanding Harley's Hatchery into a mobile-first customer experience.
+Building the financial and business operations foundation.
 
 Focus:
-- Mobile-first experience
-- Customer app concepts
-- Push notifications
-- Mobile flock tracking
-- Anywhere access
+- Secure checkout concepts
+- Customer payments
+- Subscription services
+- Membership plans
+- Business operations foundation
