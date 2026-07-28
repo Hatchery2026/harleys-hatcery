@@ -1,15 +1,15 @@
-Harley's Hatchery Version 11.6 - Advanced Marketing, Email Automation & Customer Growth Edition
+Harley's Hatchery Version 11.7 - Advanced Analytics, Business Intelligence & Performance Dashboard Edition
 
 Focus:
-- Email campaigns
-- Customer notifications
-- Hatch reminders
-- Promotional campaigns
-- Automated customer journeys
+- Sales analytics
+- Customer insights
+- Inventory reporting
+- Hatch performance tracking
+- Growth dashboards
 
 Preparation:
-- Connect email platform
-- Add customer segments
-- Add automation triggers
-- Connect analytics
-- Add campaign content
+- Connect live business data
+- Add analytics tools
+- Add inventory tracking
+- Connect customer database
+- Build reporting workflows
