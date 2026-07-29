@@ -1,60 +1,7 @@
-body{
-font-family:Georgia,serif;
-background:#fff8ed;
-color:#4d4055;
-text-align:center;
-margin:0;
-}
-header{
-background:white;
-padding:25px;
-}
-.logo{
-font-size:32px;
-font-weight:bold;
-color:#80609a;
-}
-nav a{
-margin:12px;
-text-decoration:none;
-color:#4d4055;
-}
-.hero{
-padding:90px 20px;
-background:#f3e8ff;
-}
-.hero h1{
-font-size:52px;
-color:#80609a;
-}
-.button,button{
-background:#80609a;
-color:white;
-padding:12px 25px;
-border:0;
-border-radius:25px;
-}
-.cards{
-display:flex;
-justify-content:center;
-gap:25px;
-flex-wrap:wrap;
-padding:40px;
-}
-.product,.cards div{
-background:white;
-padding:25px;
-border-radius:20px;
-box-shadow:0 4px 12px #ddd;
-width:220px;
-}
-.photo{
-height:90px;
-background:#faf1e6;
-padding-top:40px;
-}
-input,textarea{
-padding:10px;
-margin:8px;
-width:250px;
-}
+body{font-family:Georgia,serif;background:#fff8ed;color:#4d4055;text-align:center;padding:20px}
+header{background:#fff;padding:25px;border-radius:20px}
+.hero{padding:70px;background:#f3e8ff;border-radius:25px}
+.cards{display:flex;flex-wrap:wrap;justify-content:center;gap:20px}
+.cards div{background:white;padding:25px;border-radius:20px;min-width:160px}
+.button,button{background:#80609a;color:white;padding:12px 24px;border:0;border-radius:20px;text-decoration:none}
+input,select,textarea{padding:10px;margin:8px;width:250px}

@@ -1,0 +1,18 @@
+Harley's Hatchery Launch Information
+
+Email:
+harleyshatchery@outlook.com
+
+Pickup:
+New Lisbon / Mauston, WI
+
+Breeds:
+- Silkie
+- Rhode Island Red
+- White Leghorn
+- Buff Bantam
+- Booted Bantam
+
+Checkout:
+Full checkout structure prepared.
+Add payment provider connection before launch.
